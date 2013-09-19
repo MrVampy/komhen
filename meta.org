@@ -52,6 +52,10 @@ kanalsystem er effektivt til at filtrere fejlhenvendelser frem.
   henvendelse
 - Ovenstående kan anskue effekten af de indledende informations- og selvbetjeningskanaler.  
 
+** Publikationer
+- Publicér så meget relevant materiale som muligt.
+- Skab tryghed gennem publiceret materiale, der kan tilgås, hvis en medarbejer
+  er i tvivl.
 
 * Præsentation
 
