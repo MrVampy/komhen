@@ -268,7 +268,6 @@ Hvad har Køge valgt at gøre for at højne selvbetjeningsgraden?
 Præsentationsskabelon for de enhedsansvarlige:
 Link: [[http://www.kl.dk/menu/KOMHEN-20-Vejledning-til-de-enhedsansvarlige-id109367/?n=0&section=4652][Præsentation]]
 
-
 ** Vejledning til registranterne
 Word dokument med vejledning til registranterne:
 Link: [[http://www.kl.dk/menu/KOMHEN-20---vejledning-id101552/?n=0&section=4652][Dokument]]
@@ -276,5 +275,5 @@ Link: [[http://www.kl.dk/menu/KOMHEN-20---vejledning-id101552/?n=0&section=4652]
 ** Vejledning til Tovholder: TraceTool
 TraceTool opsætningsvejledning: [[http://www.kl.dk/menu/KOMHEN-20--vejledning-Registreringer-med-TraceTool---vejledning-til-tovholdere-id101885/?n=0&section=4652][Vejl. TraceTool]]
 
-
-
+** Vejledning i tidsmålinger med TraceTool
+Link: [[http://www.kl.dk/menu/KOMHEN-20--vejledning-Registreringer-med-TraceTool---vejledning-til-tovholdere-id101885/?n=0&section=4652][Vejl. TraceTool tidsmåling]]
