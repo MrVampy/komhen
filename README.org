@@ -1,7 +1,0 @@
-* Velkomme til KOMHEN 2.0 wiki for Køges Kommune
-
-[[file:drejebog.org][KOMHEN 2.0 Drejebog]]
-
-[[file:docs.org][Dokumenter fra sidste tælleuge]]
-
-[[file:meta.org][Overordnede tanker om tælleugens kommende forløb]]
