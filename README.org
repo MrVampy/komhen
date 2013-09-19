@@ -2,6 +2,6 @@
 
 [[drejebog.org][KOMHEN 2.0 Drejebog]]
 
-[[file:docs.org][Dokumenter - Tælleuge efterår 2012]]
+[[docs.org][Dokumenter - Tælleuge efterår 2012]]
 
-[[file:meta.org][Overordnede tanker om næste tælleuge]]
+[[meta.org][Overordnede tanker om næste tælleuge]]
