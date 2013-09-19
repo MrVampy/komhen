@@ -1,0 +1,265 @@
+* Tælleugen
+
+**  Dokumenter
+
+*** Afdelinger og tælleansvarlige
+<Dok.nr 2013-1830>: Se mail
+
+Oversigt over afdelinger og enhedsansvarlige, der var involveret i tælleugen.
+
+*** Tælleuge vejledning
+
+<Dok.nr 2013-1827>: Se mail
+
+Kommune specifik guide for Køges kommune.
+
+- Indeholder implicitte beslutninger om valg af værktøjer, procedurer, etc.
+  for Køge Kommune specifikt.
+
+- Indeholder gode og andre eksempler på procedurer. Brug disse under præsentationen.
+
+Tips til konkret brug af TraceTool.
+
+- Mulighed for papirudskrivelse i TraceTool, til skriftlig udfyldning. Skal dog ikke
+  bruges, medmindre det er strengt nødvendigt.
+
+*** Datausikkerhed ved tælleugen
+<Dok.nr 2013-1825>: Se mail
+
+Beskrivelse af elementer, der udgør trusler mod dataens reliabilitet.
+1. Forskelle i registreringspraksis på de enkelt enheder, da registreringsmetoden
+   er udliciteret.
+2. Data på opgaver kan ikke bruges til at danne et overordnet billede af en enheds
+   arbejdspres, da enheder ikke varetager det samme antal *registrerede* opgaver.
+3. Data afspejler ikke ressourceforbrug i forhold til omstillinger, fordi medarbejderen
+   der afslutter henvendelsen, er registranten - ikke mellemled i forbindelse med kontakten.
+4. Data for tælleugen er en uges udpluk, og kan derfor ikke generaliseres på måneds- 
+   eller årsbasis.
+
+Erfaringer:
+
+1. Vær opmærksom på at blanketter kun skal angives som 'JA', hvis de er ledsagere
+   i en henvendelse, dvs. allerede udfyldt af borgeren. Hvis de ikke bliver udfyldt af
+   borgeren bør de tælle som et 'Nej'.
+2. Vær opmærksom på henvendelser der overgår til Udbetaling Danmark, og korrekt registrering
+   ift. at undgå at registrere disse som fejlhenvendelser.
+3. Tidsregistreringen er sårbar over for den enkelte medarbejders punktlighed ift. at starte og
+   slutte tidsregistreringen korrekt.
+
+*** Registreringer via hjemmeside
+<Dok.nr 2013-1832>
+
+Beskrivelse af forhold omkring registrering af henvendelser via hjemmesiden.
+
+- Siteimprove varetager klik på de forskellige emnesider på Køge Kommunes hjemmeside.
+- Emnesider er valgt alt efter om de er kategoriseret som 'informationssider'. 
+- Sider der henviser direkte til en selvbetjeningsløsning er ikke talt med i Siteimproves 
+  tællerscript.
+- Sider er valgt, så de nogenlunde passer til de relevante KLE-numre.
+
+*** Tællevejledning for arbejdsmarkedsområdet
+<Dok.nr 2013-1833>
+- Oversigt over hvilke opgaver, der skal registreres i arbejdsmarkedsområdet
+
+*** Generel Henvendelsesvejledning
+<Dok.nr 2013-1834>
+- Straksafsklaring + sendt videre i systemet = én henvendelse
+- Henvendelsestype for indlevering af blanketter afhænger af
+  emnet blanketten omhandler.
+- Blanketter, der skal sendes videre, bør ikke registreres i borgerservice, men
+  kun ved det sidste led
+- Fejlhenvendelser, er de henvendelser, der ikke hører i kommunalt regi.
+
+*** Oversigt over obligatorisk opgaver Køge (Efterår 2012)
+<Dok.nr 2013-1822>
+Tælleugens opgaveansvarlige for efteråret 2012
+
+*** Evaluering Tælleuge efterår 2012
+<Dok.nr 2013-3425>
+
+- Overordnet beskrivelse at projektets forløb
+  - I løbet af september og første halvdel af oktober blev tælleenheder
+    udvalgt og de enhedsansvarlige underrettet
+- Tovholder holdt et informationsmøde for de enhedsansvarlige, hvor metoden
+  og fremgangsmåden blev forklaret.
+- Tovholder oprettede brugere i registreringsværktøjet TraceTool målrettet
+  de specifikke enheder og underenheder
+  - Ved enkelte sitatuationer blev der oprettet masseregistreringer via 
+    Det Digitale Landkort
+  - En enkelt enhed foretog registreringer via papirskema
+- Optællingsprocessen var ikke 100 % stringent i forhold til uge 43, hvor
+  der blev kompenseret ved enkelte optællinger i uge 44.
+- Der skal informeres entydigt om undersøgelsens formål. Derudover, 
+  skal medarbejdernes forudindtagede indtryk af sidste års formål,
+  afklares i forhold til det rigtige formål.
+- Der skal informeres entydigt om hvilke opgaver, der skal registreres
+  og hvornår de skal registreres
+
+
+** Excel
+
+*** Evaluerings rapport
+<Dok.nr 2013-3437>
+Spørgeskema og rapportværktøj: [[http://defgo.net]]
+PDF over spørgeskema: <Dok.nr 2013-3463>
+
+Indeholder evaluering over følgende:
+- Registreringsværktøj (TraceTool vs. Papirformat)
+- Tilfredsheden ved TraceTool
+  - For lidt kategorier
+  - For svært at huske hvilke kategorier henvendelserne hørte til
+- Tidsforbrug af registrering
+- Andelen af henvendelser registreret
+- Tilfredshed med information om formålet med tælleuge
+- Tilfredshed med information om registreringsprocess
+- Tilfredshed med support i tvivlsspørgsmål
+- Overordnet tilfredshed med processen (Ja/Nej)
+  - Læg MEGET mærke til de kommentarer omkring processen, der er givet her.
+- Manglen af opgaver på listen
+  - Igen læg mærke til kommentarerne.
+- Ligegyldigheden af opgaver
+- Kommentarer til næste tælleuge
+- Enhedsoplysninger
+  
+
+
+
+** Præsentationer
+
+*** Tovholders præsentation for enhedsansvarlige
+<Dok.nr 2013-1811>
+
+- Overordnet strategi
+- Konkret formål med tælleugen i forhold til den overordnede strategi
+- Enhedsansvarliges rolle
+- Tovholderens rolle i forhold til projektet, den enhedsansvarlige og
+  KL
+- Tælleopgaver og -parametre
+- Registreringsværktøj
+  - Login
+- Specificering af registreringsmetoden
+  - Registeringskanaler
+  - Registreringsparametre
+  - Registeringshenvendelser
+- Links til værktøjer og vejledninger
+- Næste gøremål
+- Gøremål under tælleugen
+- Forslag til at holde tællegejsten oppe
+- Spørgsmål
+- Kontaktinformation
+
+*** Enhedsansvarlig præsentation for medarbejdere i Arbejdsmarked & Borgerservice
+<Dok.nr 2013-3484>
+
+- Overordnet formål med tælleugen
+- Opgaver i FAB, som skal registreres som henvendelser
+- Registreringsværktøj
+- Generelt om henvendelser
+  - Posthenvendelser
+  - Fejlhenvendelser
+  - Telefonhenvendelser
+- Eksempler på henvendelser
+- Konkrete registreringsskridt ved en henvendelse
+  - Skridt for sagsspecifikke henvendelser
+  - Skrift for informationshenvendelser
+- Procedurer i forbindelse med tvivlsspørgsmål
+- Procedurer i forbindelse med registrering
+  - Rettelse/fortrydelse af registreringer
+  - Andre konkrete anbefalinger
+
+* Lektioner fra sidste tælleuge
+[[http://www.kl.dk/e2015---Digital-borgerbetjening/Kommuner-deler-erfaringer-fra-forarets-talleuger-id136659/?n=0&section=4652][Sådan gør de bedste kommuner]]
+
+** Køges tiltag
+
+Hvad har Køge valgt at gøre for at højne selvbetjeningsgraden?
+
+* KL's rapport for sidste tælleuge
+[[http://www.kl.dk/Administration-og-digitalisering/komhen13-id133934/?n=0][KOMHEN Rapport Tælleuge Forår 2013]]
+** Overordnede statistik om selvbetjeningsgrad
+
+- Obligatorisk digital selvbetjening er en lovgivet strategi, der forløber
+  frem til 2015.
+  - Bølge 1 trådte i kraft d. 1. dec 2012
+  - Bølge 2 træder i kraft d. 1. dec 2013
+  - Bølge 3, 1. dec 2014...Bølge 4, 1. dec 2015.
+  - Det er også en del af strategien at borgere skal have adgang til
+    information om igangværende sager på Min Side på borger.dk
+- Opgaverne for Bølge 1, er obligatorisk selvbetjening, dvs. ansøgninger
+  og anmeldelser (transaktioner)
+  - Sidste Tælling viste 70 % i gennemsnit for kommunerne
+  - Region Sjælland: 68 %
+  - Målet er 80 % for alle ansøgninger og anmeldelser i 2015
+  - Hvad er det for Køge?
+- Selvbetjeningsgraden var 51 % for de 17 obligatoriske opgaver, eksl.
+  Udbetaling Danmark, pas, kørekort og personskat
+- Estimat for selvbetjeningsgraden for alle kommunale adminsitrative 
+  opgaver er 9 %, inkl. de opgaver der ikke er modne til selvbetjening
+
+** Brugte henvendelsestyper
+
+- 'Henvendelsestype' har størst betydning for hvilken kanal borgeren
+  benytter sig af.
+  - Ansøgninger og anmeldelser (Figur i Rapport)
+    - Opgaver:
+      - Flytning
+      - Sundhedskort
+      - EU-sygesikring
+      - Opskrivning til daginstitution
+      - Opskrivning til skole, SFO, fritidshjem
+    - 70 % selvbetjening
+    - 12 % personligt fremmøde
+    - Resten: Telefon, Brev, E-mail eller Digital Post
+  - Generel råd og vejledning, dvs. ikke sagsspecifik og uden referencenr.
+    - 76 % hjemmeside
+    - 15 % telefon
+    - 7 % personligt fremmøde
+    - Resten: Brev, E-mail og Digital Post
+
+** Hjælp til selvbetjening
+- Borgere kontakter og kommunerne for at få hjælp til selvbetjening
+  - Personligt fremmøde 56 %
+    - Gælder i høj grad Flytning og sygesikring
+  - Telefon 43 %
+    - Gælder de andre opgaver
+- Fordelt på opgaver er de tre største hjælpeaktiviteter forbundet med:
+  - SKAT - person 19,5 %
+  - Flytning 15 %
+  - Optagelse i dagtilbud, plads i anden kommune og opsigelse 8,5 %
+  - Resten ....
+
+** Faktorer der påvirker selvbetjeningsgraden
+- Mængden af følgende aktiviteter øger mængden af selvbetjeningsgrad
+  - Investering i hjemmeside
+  - Auto-svar på email med henvisning til selvbetjening
+  - Fokus på mnarkedsføring
+  - Handlingsplan i kølvandet på kanalstrategien
+  - Digitaliseringsforståelse
+  - Lukning af analoge kanaler
+
+** Straksafslutning
+- Kommunerne vil gerne løse henvendelser i første ombæring
+  - Når en henvendelse skifter hænder
+    - Går der viden tabt
+    - Risikoen for fejl stiger
+    - Koster ekstra ressourcer for ny medarbejder at tilegne viden
+- Landsgennemsnittet for straksafslutning er 64 %
+
+** Forgæves informationssøgning på hjemmesiden
+- 36 % af borgere, der ringer eller møder personligt op, har forgæves
+  forsøgt at finde information på hjemmesiden
+- Der er stadig økonomisk potentiale i at nedbringe denne andel
+
+** Selvbetjeningsgraden af Blanketter
+- En blanket er en formular, enten analog eller digital, hvor indholdet
+  er struktureret efter en skabelon
+- Papirblanketter skannes og journaliseres til senere manuel indtastning
+- Blanketter i KOMHEN er denne type blanket, dvs. en blanket,. hvor
+  medarbejderes manualt skal indtaste data i en eller anden form
+- 61 % af alle ansøgnings- og anmeldelsesopgaver er typen, hvor blanketter
+  skal manuelt indtastes
+- Blanketter medfølger i overvejende grad ved personlig fremmøde og papirbrev,
+  og i mindre grad ved E-mail og Digital Post.
+
+
+

@@ -1,0 +1,432 @@
+* Komhen 2.0 Drejebog
+
+** Forord
+
+Essentielt at nøglebegreber og måleparametre benyttes på samme måde, for at
+strømline arbejdet på tværs af kommuner. Dette er for at sikre sammenligning på
+tværs af kommuner.
+
+Digitalt landkort for dataudtræk til egne analyser.
+
+Sørg for at holde dig opdateret på den nyeste version af drejebogen på:
+[[http://www.kl.dk/komhenvejledninger]]
+
+*** Kontaktoplysninger
+
+KOMHEN 2.0 generelt:
+
+[[http://www.kl.dk/komhen]]
+
+Digitalt Landkort:
+
+[[http://www.digitaltlandkort.dk]]
+
+TraceTool:
+
+[[http://www.komhen.dk]]
+
+Erfaringsudveksling i fora format:
+
+[[http://dialog.kl.dk/Grupper/Club/?clubId=537]]
+
+** Indledning
+
+*** Formål
+
+At få adgang, gennem kanaltypeanalyse, til kommunens henvendelsesmønstre i kontakten med borgere, virksomheder
+og andre interessenter.
+
+At dokumentere effekten af de indsatser, der bliver sat i værk i kølvandet på
+kommunens kanalstrategi. Projektet vil vise om det over tid vil lykkedes kommunen
+at flytte henvendelser over på de mest hensigtsmæssige kanaler.
+
+*** KOMHENs elementer
+
+- Metode til henvendelsernes optælling
+- It-understøttelse i form af adgangen til registreringsværktøjet TraceTool
+- En fælles database
+- En portal til datapræsentation
+
+Overordnet process: Indsamling af data->upload af data->præsentation af data
+Specific process: Tælleuge->Fællesdatabase->Digitalt Landkort
+
+** Projektets process
+
+*** Torvholderen
+
+Vigtigste skridt: Overveje omfanget af projektet, planlægge og organisere tælleugerne og indsamling af data
+
+Torvholders Profil:
+
+- Kender organisationen og kommunens kanalstrategi
+- Gennemslagskraft
+- Motivere og synliggøre fordelene ved KOMHEN 2.0
+- Excel, Calc....
+- Ansvar: At sikre de indmeldte data afspejler kommunens henvendelsesmønstre
+
+Tovholderen skal udpege enhedsansvarlige for de enkelte forvaltninger/enheder,
+der skal tælle.
+
+Det er vigtigt at tovholderen sætter KOMHEN 2.0 på dagsordenen, gennem opbakning fra ledelsen.
+Argmunter til at anskue fordelene ved KOMHEN: [[http://www.kl.dk/menu/KOMHEN-20--vejledning-Hvordan-salger-du-KOMHEN-20-til-ledelsen-id99795/?n=0&section=4652][Link til argumenter]]
+
+*** Planlægning af Tælleugen
+
+- Første uge SKAL tælles
+- Hvad skal tælles?
+  - Måle på alle opgaver, eller kun de obligatoriske
+  - Måle på andre parametre: brugertilfredshedsmåling, tidsmåling, etc.
+- Hvem skal tælle?
+  - Administrative medarbejdere, som varetager de konkrete henvendelser, som ønskes
+    optællet.
+  - Bør kontakte lederne for de berørte områder for at informere om tælleugerne,
+    og kvalificere, at de rigtige medarbejdere bliver inddraget.
+- Hvordan skal der tælles?
+  - Data kan frembringes med:
+    - TraceTool
+    - Henvendelsesudtrækning og upload til Det Digitale Landkort
+  - Data kan være eksisterende i et system, og klar til udtræk i tilstrækkeligt format
+  - Data kan også være eksisterende i fysisk form, men skal registeres i et registreringsværktøj
+  - Meget vigtigt at der ikke sker dobbeltregisteringer
+
+Liste over opgavebruttoliste (Opgavepakke) for hvilke funktioner, der varetager hvilke henvendelser:
+- [[http://www.kl.dk/Administration-og-digitalisering/Opdateret-opgavepakke-for-efterarets-talleuger-id136234/?n=0][Opgavepakke]]
+
+**** TraceTool
+
+TraceTool er et generelt registeringsværktøj som kan bruges generelt, og ikke kun i tælle-
+ugerne.
+
+*Værktøjet sparer kommunerne for tidsforbrug i registeringen af henvendelser?*
+
+KL henter data fra TraceTool centralt, hvilke gør at kommunerne ikke skal tilvejebringe dem.
+
+***** Opsætning af TraceTool
+
+Tovholderens opgave at opsætte TraceTool.
+
+1. Oprette enheder, der skal registere
+2. Tildele hver enhed et navn, brugernanv og password
+3. Tildele optællingsopgaver til hver enkelt enhed, som er synlige, når medarbejderen logger på.
+4. Tage stilling til hvilke parametre, der skal måles ud over de obligatoriske.
+
+Registeringsværktøjet bør opsættes i samarbejde med den tælleansvarlige i den enkelte enhed.
+
+***** Prøvetællinger i TraceTool
+
+TraceTool indeholder en test-funktion, der ikke publicerer tællingerne ved Det Digitale Landkort
+
+**** Organisering af tælleuge
+
+Saml de enhedsansvarlige til et introduktion til KOMHEN 2.0
+   Gennemgå som minimum følgende på mødet:
+   - Hvad er KOMHEN 2.0, og hvorfor anvendes metoden?
+   - Hvad får enheden ud af at deltage?
+   - Sådan anvendes registreringsværktøjet
+   - Hvordan bruges de indsamlede oplysninger fremadrettet
+
+Det er herefter den enhedsansvarliges rolle at formidle genneførelsen af
+tælleugen videre til medarbejderne på enhedsmøder.
+
+Anbefales at der gennemføres én eller flere prøvetællinger i perioden op til:
+- Kan strække sig fra ½ time til flere dage
+
+Det *vigtigste* her er tryghed i forhold til optællingsprocessen, igennem fremprovokering
+af tvivlsspørgsmål og uhensigtsmæssigheder i organiseringen af tælleugerne.
+
+Vær opmærksom på at skolernes efterårsferie er ude af betragtning til inddragelse af enheder.
+
+***** Support i tælleugen
+
+Medarbejdere i kommunen->Enhedsansvarlig->Tovholder->KL's Kontor for Digitalisering og Borgerbetjening->IT-leverandører
+
+***** Efter tælleuge
+
+Sikring at alle data registeret i TraceTool bliver automatisk overført til databasen.
+Data fra andre systemer skal uploades via csv eller masseregisterering via Det Digitale Landkort.
+
+Foretag evt. en evaluering af tælleugen efterfølgende.
+Del erfaringerne på dialogportalen eller gennem KL.
+
+Data kan i perioden efter tælleugen udtrækkes til egen analyse i et statistisk bearbejdningsværktøj.
+Derudover kan der bruges et rapportværktøj, Rapportbanken, til at analysere data og udarbejde rapporter.
+
+** Måleparametre
+
+*** Henvendelser
+- Hver gang information modtages af eller sendes fra kommunenm tæller det med som en
+  henvendelse.
+  - Henvendelser med øjeblikkeligt svar, eks. telefonisk, angives som én henvendelse.
+  - For at eliminere dobbeltregistreringer er det medarbejderen, der afslutter henvendelsen
+    som registrerer den.
+  - Der skal registreres en henvendelse pr. opgave, som personen henvender sig om.
+  - Hvis en interessent ringer ind, og opgaven stadig er under forarbejdning, bør henvendelsen
+    angives, som status på eksisterende sag, altså én indgående henvendelse.
+  - Når interessenten så senere modtager svar på sagen, bør denne angives som én udgående henvendelse.
+  - Interessent henvender sig til sagbehandler, lægger besked på telefonsvarer = én indgående henvendelse
+    Sagsbehandler ringer til interessenten med svar = én udgående henvendelse.
+
+**** Administrative henvendelser
+Samtlige henvendelser til og fra kommunen skal registreres.
+- Drejer sig typisk om administrative henvendelser i forbindelse med planlægning,
+  vejledning eller sagsbehandling.
+
+*** Kanaler
+
+De forskellige kanaler indbefatter:
+- Selvbetjening
+- Telefon (ind og ud)
+- Personligt fremmøde
+- E-mail (ind og ud)
+- Papirbrev (ind og ud)
+- Hjemmeside (centralt)
+- Digital Post (ind og ud)
+- SMS (ind og ud)
+- Chat
+- Fjernprint
+- I/O manager (udgående)
+- Socialt Medie (ind og ud)
+- System-henvendelser
+
+**** Selvbetjening
+
+Fællesoffentlige tællerscript
+
+Kommunen skal ikke skaffe statistik for opgaver, der er indbefattet af 
+Borger.dk's tællerscript
+- Opgaverne inbefatter: Link?
+KL skaffer denne statistik, og du kan evt. selv tilføje enhedsoplysninger.
+- Se procedure ved 4.2.2.4
+
+Andre opgaver der skal tælles manuelt, kan registreres direkte i TraceTool, 
+via csv-skabelon eller masseregistrering i Digitalt Landkort.
+
+**** Telefoniske henvendelser
+Se [[Henvendelser][Henvendelser]] for konkrete scenarier i forhold til telefoniske henvendelser.
+Registrering: TraceTool eller prædefineret csv-skabelon til Digitalt Landkort
+Skal ikke registreres/frasorteres:
+- Kommunens interne opkald
+- Private opkald (måske umuligt at opgøre)
+
+**** Personlige henvendelser
+
+Én henvendelse, hver gang en interessent møder op personligt og betjenes i kommunen.
+Kan benytte allerede eksisterende nummersystemer, der dog skal være registreringsklar
+via en csv fil til Det Digitale Landkort.
+
+Registering: TraceTool eller prædefineret csv-skabelon til Digitalt Landkort.
+
+**** E-mails
+
+E-mail kan forekomme via én til én kommunikation eller én til flere. Eksempelvis
+- Modtager flere medarbejdere den samme henvendelse, er det medarbejderen, der afslutter
+  henvendelsen, som tæller.
+- Sender en medarbejder udgående mails til flere personer, tælles samtlige mails som
+  henvendelser.
+
+Registering: TraceTool eller prædefineret csv-skabelon til Digitalt Landkort.
+Skal ikke registreres/frasorteres:
+- Spam (Hvis ikke fanget i kommunens spamfilter)
+- Interne Mails
+- Private Mails
+- Andre mails, der ikke vedrører kommunens drift i form af de angivne opgavetyper
+  - Eksempelvis Salgsfremmende materiale som nyhedsbreve, reklamer, etc..
+
+**** Breve
+
+Alle ind- og udgående breve skal registeres. Indgående henvendelser skal også registreres
+selvom de endnu ikke er blevet bearbejdet og svaret via en udgående henvendelse.
+
+Registrering: TraceTool
+Skal ikke registreres/frasorteres:
+- Se frasorteringer for [[E-mails][E-mails]]
+
+**** Hjemmeside
+
+KL har arbejdet med Siteimprove for at hjemmesiden bliver opgjort.
+
+For at Siteimprove kan opsamle kommunens hjemmeside statistik skal Siteimproves
+webanalyse script indsættes på kommunens hjemmeside.
+For Siteimproves løsning, kontakt: cas@siteimprove.com
+
+Alternativt: Se Siteimproves metode under 4.2.7
+Registrering: præ-defineret CSV-skabon til Digitalt Landkort
+
+**** Digital Post
+
+KL registerer centralt alle udgående massemails i Digital Post.
+Hvis Kommunen vil registere DP henvendelser skal de følge metoden ved 4.2.8.1
+og de relevante dele af metode 4.2.8.2.
+
+Kommunen bør registrere enkeltforsendelser, som bliver sendt lokalt ud af
+den enkelte sagsbehandler. Hvis forsendelse sendes via en output manager bør
+henvendelsen registreres som "Output manager".
+
+**** SMS og Chat
+
+Kun meddelelser af administrativ karakter skal medtages. 
+Registering: TraceTool eller prædefineret csv-skabelon til Digitalt Landkort.
+
+**** Fjernprint
+
+Kommunen skal selv skaffe statistikker fra Fjernprint.
+Brug eventuelt KL projektleder dialognetværket, se [[Kontaktoplysninger]] for
+Erfaringsudveksling.
+
+Registrering: præ-defineret CSV-skabon til Digitalt Landkort.
+
+**** Sociale Medier
+
+Har vi sociale medier?
+
+**** Systemhenvendelser
+
+Henvendelser systemer imellem, skal registreres, hvis de uden systemet
+ville have talt som en almindelig ekstern henvendelse.
+
+TraceTool har tre system-kanaler efter behov:
+- Økonomisystemer
+- MedCom-systemer
+- Generisk efter enhedsbehov
+
+Vær opmærksom på dobbeltoptælling via andre henvendelseskanaler.
+
+**** Adviser
+
+Hvilke typer Adviser til sagsbehandlere, via fagsystemer, skal registreres som henvendelse?
+
+Skal i den givne situation tages stilling om et Advis er en henvendelse eller ej.
+Dette skal formidles til optællingsmedarbejderen.
+
+*** Henvendelsestyper
+
+- Sagsspecifikke henvendelser (transaktioner)
+  - En ny sag oprettes
+  - Eksisterende sager der tilføres ændringer/tilføjelser
+  - Kræver typisk CPR, CVR eller andet referencenummer
+- Informationshenvendelser (informationer)
+  - Hjælp til generelle forhold
+  - Typisk går der informationshenvendelser forud for en transaktionshenvendelse
+
+Der skelnes mellem transaktioner og informationer i følgende tilfælde:
+- Transaktioner:
+  - Oprettelse af ny sag
+  - Ændring af status på eksisterende sag
+- Informationer:
+  - Information vedr. eksisterende sag
+  - Råd og vejledning
+  - Hjælp til selvbetjening
+  - Fejlhenvendelse, dvs. en henvendelse til det forkerte sted
+
+**** Fejlhenvendelser
+En henvendelse, der har til formål at vejlede personen til den rette myndighed, dvs.
+en kommunal opgave. Det er en fejlhenvendelse, hvis opgaven ikke varetages af
+nogen af kommunens forvaltningsenheder eller virksomheder.
+
+En indikator for hvorvidt kommunens informationsapparat, herunder hjemmesiden,
+er effektivt.
+
+Henvendelser, der overgår til Udbetaling Danmark skal stadig registreres som almindelige
+henvendelser og ikke fejlhenvendelser, selvom Udbetaling Danmark er en seperat myndighed.
+
+Ikke fejlhenvendelse hvis personligt fremmøde om skatteforhold (Er der andre af samme type?). 
+Alle andre typer kanaler skal registreres som fejlhenvendelse. 
+
+Er tilføjet som opgave i TraceTool.
+
+*** Obligatoriske parametre
+De obligatoriske parametre er:
+1. Kommune
+2. Enhed
+3. Dato
+4. Henvendelseskanal
+5. Opgave
+6. Henvendelsestype
+7. Afslutning
+8. Blanket
+
+**** Blanket
+
+Papirformer, der ledsager en personlig henvendelse, må ikke tælles, som en ekstra
+henvendelse. Disse typer papirformer er ledsagere i henvendelsen, *ikke* en henvendelse
+i sig selv.
+
+**** Måling af henvendelsernes varighed
+
+Varighed af hver enkelt henvendelse tilbyder en ekstra dimension i udmålingen af
+ressourceforbruget.
+Dette kan i sidste ende give et overblik over estimerede kanalpriser.
+Se [[http://www.kl.dk/kanalpriser]]
+
+**** Ekstra lokale parametre
+
+Følgende lokale parametre kan, efter behov, tilknyttes henvendelser:
+- Køn
+- Alder
+- Postnummer
+- Varighed af henvendelse
+- Hvilken personprofil kommer henvendelsen fra?
+- Klagesag?
+- Adgang til Internet, privat eller arbejde
+- Kunne borgeren selv have løst det via Borger.dk
+- Har borgeren først prøvet at finde information på Kommunens hjemmeside
+
+Kommunen kan desuden tilføje andre parametre under "Ekstra parametre" efter behov.
+
+*** Obligatoriske opgaver
+
+Opgaver er knyttet til emnehierakiet "KLE".
+Tovholderen skal skal stilling til følgende:
+- Hvilke opgaver ønskes talt på hvilke niveauer (hvad betyder niveauer?)
+  - Der bør tælles på enten en opgave i almindelighed (KLE xx.xx.00) eller
+    på underliggende opgaver (KLE xx.xx.08)
+
+KL bestemmelser i (parantes)
+
+- Obligatoriske opgaver (obligatorisk)
+  - 35 i alt
+  - For opgaver vedrørende kontante ydelser eller beskæftigelsesindsatsen
+    skal kommunen måle på ydelsesdelen og ikke indsatsdelen/aktivering,
+    dvs. de opgaver, der ligger på rådhuset.
+  - Flere opgaver overgår til Udbetaling Danmark, men de skal stadig registreres
+    som henvendelser.
+- Ekstra opgaver (opfordrer)  
+- Øvrige frivillige (valgfrit)
+
+
+** Dataupload og udtræk
+
+*** Det digitale landkort
+
+[[http://www.digitaltlandkort.dk][Digitalt Landkort]]
+
+- Tovholder får tilsendt brugernvn og password til DL for at kunne indmelde 
+  data. Dette er det samme brugernanv og pass, som til TraceTool.
+  - Der bliver synkroniseret brugere melle DL og TraceTool hver ½ time
+- Upload af data sker via præ-defineret csv-skabelon
+
+Digitalt Landkort består af to dele:
+- En offentlig del for overordnede resultater
+- En adgangsbegrænset del til tovholdere og KOMHEN projektledere
+  - Særlig adminstrationsdel til:
+    - Indmelding af data
+    - Besvarelse på 16 spørgsmål
+    - Udtrække rapporter og rådata
+    - Finde vejledninger
+  - Får adgang til følgende
+    - Administration til Registreringsværktøj
+    - Upload af henvendelser genne csv-fil
+    - Øvrige data - de 16 spørgsmål
+    - Masse registrering - til mange manuelt optalte identiske henvendelser
+    - Udtræk rådata
+    - Vidensbank - erstattet af [[http://www.kl.dk/komhenredskaber]]
+
+** Upload af CSV-filer guide
+
+Prædefineret skabelon:
+
+| KommuneID | Enhed         | KLE Opgave kode | Henvendelses Kanal | Henvendelses type | Afslutning | Blanket | Dato             |
+|-----------+---------------+-----------------+--------------------+-------------------+------------+---------+------------------|
+|       259 | Borgerservice |        01.11.00 | BRGDK              | NULL              | NULL       | NULL    | 11-09-2013 13:00 |
+
+
