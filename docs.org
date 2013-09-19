@@ -302,3 +302,14 @@ Link: [[http://www.kl.dk/menu/KOMHEN-20--vejledning-10-trin-til-gode-talleuger-i
 - Skal medarbejdere undervises i TraceTool? - Hvornår?
 - Hvor meget skal testes? - Hvornår og hvem?
 - Hvordan vil vi analysere data? - Hvornår?
+
+*** Skab overblik
+
+- Hvordan tilvejebringes data fra alle kanaler?
+- Hvad leverer KL, og hvad registrerer vi selv?
+*** Under tælleugen
+- Vær der den første dag, så du kan assistere medarbejdere, hvis de har spørgsmål
+- Tjek den indsamlede data løbende
+
+** Vejledning til Rapportbanken
+Link: [[http://www.kl.dk/menu/KOMHEN-20-Vejledning-til-Rapportbanken-id117054/?n=0&section=4652][Vejl. til Rapportbanken]]
