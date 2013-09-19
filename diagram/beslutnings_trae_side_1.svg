@@ -3918,6 +3918,7 @@
   </style>
 
 
+
 .fil0 {fill:#EF7900}.fil0 {fill:#EF7900}</defs>
   <sodipodi:namedview
      id="base"
@@ -3927,8 +3928,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70710678"
-     inkscape:cx="-645.01454"
-     inkscape:cy="305.51327"
+     inkscape:cx="56.049673"
+     inkscape:cy="550.16512"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -4149,60 +4150,6 @@
          y="654.11719"
          style="font-size:16px"
          id="tspan6955">- SMS</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="9.3352547"
-       y="484.19336"
-       id="text6959"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         x="9.3352547"
-         y="484.19336"
-         style="font-size:20px"
-         id="tspan6963">Fremgangsmåde:</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="9.3352547"
-       y="509.64917"
-       id="text6967"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan6969"
-         x="9.3352547"
-         y="509.64917"
-         style="font-size:16px">1. KommuneID = 259</tspan><tspan
-         sodipodi:role="line"
-         x="9.3352547"
-         y="529.64917"
-         style="font-size:16px"
-         id="tspan5946">2. Enhed = Enhedsnavn</tspan><tspan
-         sodipodi:role="line"
-         x="9.3352547"
-         y="549.64917"
-         style="font-size:16px"
-         id="tspan5948">3. Dato = DD-MM-ÅÅÅÅ (tt:mm)(:ss)</tspan><tspan
-         sodipodi:role="line"
-         x="9.3352547"
-         y="569.64917"
-         style="font-size:16px"
-         id="tspan5944">4. Henvendelseskanal = XXXXXX - eks: TLFIND</tspan><tspan
-         sodipodi:role="line"
-         x="9.3352547"
-         y="589.64917"
-         style="font-size:16px"
-         id="tspan4586">5. KLE Opgavekode = xx.xx.xx - eks: 02.34.02</tspan><tspan
-         sodipodi:role="line"
-         x="9.3352547"
-         y="609.64917"
-         style="font-size:16px"
-         id="tspan6971">6. Henvendelsestype = XXXXXX - eks: SLVBTJN</tspan><tspan
-         sodipodi:role="line"
-         x="9.3352547"
-         y="629.64917"
-         style="font-size:16px"
-         id="tspan5396">7. Afslutning = XXXXXX - eks: STRAKS</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -5207,11 +5154,69 @@
          y="1219.6096"
          style="font-size:16px"
          id="tspan6955-6-1-0">= FEJL</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="10.163682"
+       y="485.72891"
+       id="text6959-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="10.163682"
+         y="485.72891"
+         style="font-size:20px"
+         id="tspan6963-6">Registreringstrin:</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="10.163682"
+       y="511.18475"
+       id="text6967-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6969-3"
+         x="10.163682"
+         y="511.18475"
+         style="font-size:16px">1. KommuneID = 259</tspan><tspan
+         sodipodi:role="line"
+         x="10.163682"
+         y="531.18475"
+         style="font-size:16px"
+         id="tspan5946-8">2. Enhed = Enhedsnavn</tspan><tspan
+         sodipodi:role="line"
+         x="10.163682"
+         y="551.18475"
+         style="font-size:16px"
+         id="tspan5948-8">3. Dato = DD-MM-ÅÅÅÅ (tt:mm)(:ss)</tspan><tspan
+         sodipodi:role="line"
+         x="10.163682"
+         y="571.18475"
+         style="font-size:16px"
+         id="tspan5944-8">4. Henvendelseskanal = XXXXXX - eks: TLFIND</tspan><tspan
+         sodipodi:role="line"
+         x="10.163682"
+         y="591.18475"
+         style="font-size:16px"
+         id="tspan4586-5">5. KLE Opgavekode = xx.xx.xx - eks: 02.34.02</tspan><tspan
+         sodipodi:role="line"
+         x="10.163682"
+         y="611.18475"
+         style="font-size:16px"
+         id="tspan6971-9">6. Henvendelsestype = XXXXXX - eks: SLVBTJN</tspan><tspan
+         sodipodi:role="line"
+         x="10.163682"
+         y="631.18475"
+         style="font-size:16px"
+         id="tspan5396-3">7. Afslutning = XXXXXX - eks: STRAKS</tspan><tspan
+         sodipodi:role="line"
+         x="10.163682"
+         y="651.18475"
+         style="font-size:16px"
+         id="tspan9463">8. Blanket = JA/NEJ</tspan></text>
     <path
-       style="fill:none;stroke:#000000;stroke-width:1.8;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 0,275.52778 441.23463,0 0,-275.77164755"
-       id="path4590"
-       inkscape:connector-curvature="0"
-       transform="translate(-23.191681,444.83921)" />
+       style="fill:none;stroke:#000000;stroke-width:1.64652765;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m -22.439991,676.72442 441.388111,0 0,-230.67028"
+       id="path4590-4"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>
