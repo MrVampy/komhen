@@ -277,3 +277,28 @@ TraceTool opsætningsvejledning: [[http://www.kl.dk/menu/KOMHEN-20--vejledning-R
 
 ** Vejledning i tidsmålinger med TraceTool
 Link: [[http://www.kl.dk/menu/KOMHEN-20--vejledning-Registreringer-med-TraceTool---vejledning-til-tovholdere-id101885/?n=0&section=4652][Vejl. TraceTool tidsmåling]]
+
+** Vejledning til Ledelsen
+Link: [[http://www.kl.dk/menu/KOMHEN-20--vejledning-Hvordan-salger-du-KOMHEN-20-til-ledelsen-id99795/?n=0&section=4652][Vejl til Ledelsen]]
+
+- KOMHEN kræver at medarbejdere og afdelinger lægger tid og ansvar i projektet,
+  for at sikre ordentlig data
+
+*** De gode argumenter for KOMHEN 2.0
+1. Kommunen for et billede af det nuværende henvendelsesmønster. Dette giver
+   mulighed for bedre at planlægge konkrete initiativer for at flytte borgere
+   til de udtænke henvendelseskanaler.
+2. Ved flere målinger kan tendensen i effekten af de konkrete initiativer
+   følges.
+3. I forlængelse af viden om henvendelsesmønstret, har kommunen motivation til
+   at udplukke initiativer fra de bedste kommuner.
+
+** Kort vejledning til tovholdere
+Link: [[http://www.kl.dk/menu/KOMHEN-20--vejledning-10-trin-til-gode-talleuger-id99763/?n=0&section=4652][10 trin til tælleugerne]]
+
+*** Planlæg processen
+
+- Skal der holdes orienteringsmøder? - Hvornår?
+- Skal medarbejdere undervises i TraceTool? - Hvornår?
+- Hvor meget skal testes? - Hvornår og hvem?
+- Hvordan vil vi analysere data? - Hvornår?
