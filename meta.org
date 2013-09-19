@@ -76,3 +76,5 @@ skal kategoriseres.
 Forslag:
 Træningsmateriale:
 - Introduktion og gennemgang af rammen for henvendelseskategorisering
+  - Rammen for henvendelseskategoriseringen afspejler den information
+    som kan er væsentlig for at måle effekten af kanalstrategien
