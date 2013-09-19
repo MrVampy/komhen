@@ -312,4 +312,6 @@ Link: [[http://www.kl.dk/menu/KOMHEN-20--vejledning-10-trin-til-gode-talleuger-i
 - Tjek den indsamlede data løbende
 
 ** Vejledning til Rapportbanken
-Link: [[http://www.kl.dk/menu/KOMHEN-20-Vejledning-til-Rapportbanken-id117054/?n=0&section=4652][Vejl. til Rapportbanken]]
+Link: [[http://www.kl.dk/menu/KOMHEN-20-Vejledning-til-Rapportbanken-id117054/?n=0&section=4652][Vejl. til Rapporwtbanken]]
+
+Rapportbanken: [[http://rapportbanken.dk]]
