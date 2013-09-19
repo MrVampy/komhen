@@ -1,0 +1,7 @@
+* Velkommen til KOMHEN 2.0 wki
+
+[[file:drejebog.org][KOMHEN 2.0 Drejebog]]
+
+[[file:docs.org][Dokumenter - Tælleuge efterår 2012]]
+
+[[file:meta.org][Overordnede tanker om næste tælleuge]]
