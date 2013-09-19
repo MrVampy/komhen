@@ -3380,6 +3380,7 @@
    
   </style>
 
+
 .fil0 {fill:#EF7900}.fil0 {fill:#EF7900}<linearGradient
    y2="41.51614"
    x2="179.85097"
@@ -3502,7 +3503,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70710678"
-     inkscape:cx="-37.006762"
+     inkscape:cx="694.29846"
      inkscape:cy="443.03281"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -3522,7 +3523,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -3574,7 +3575,7 @@
          x="9.3352547"
          y="484.19336"
          style="font-size:20px"
-         id="tspan6963">Fremgangsmåde:</tspan></text>
+         id="tspan6963">Registreringstrin:</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -3781,11 +3782,10 @@
          style="font-size:14px"
          id="tspan9479" /></text>
     <path
-       style="fill:none;stroke:#000000;stroke-width:1.8;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 0,275.52778 441.23463,0 0,-275.77164755"
+       style="fill:none;stroke:#000000;stroke-width:1.64652765;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m -23.268417,675.18889 441.388107,0 0,-230.67028"
        id="path4590"
-       inkscape:connector-curvature="0"
-       transform="translate(-23.191681,444.83921)" />
+       inkscape:connector-curvature="0" />
     <g
        id="layer1-8"
        transform="translate(549.95382,627.71408)">
