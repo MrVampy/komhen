@@ -76,3 +76,5 @@ skal kategoriseres.
 Forslag:
 Træningsmateriale:
 - Introduktion og gennemgang af 
+
+[[file:docs.org][File]]
