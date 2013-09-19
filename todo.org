@@ -9,6 +9,10 @@ Afklaring af diverse spørgsmål i forbindelse med tælleugen
   strategien
 - Hvordan ser Køge Kommunes nuværende kanalbetjeningsgrad ud?
 
+** TODO Ekstra måleparametre
+- Hvad er de ekstra måleparametre, udover de obligatoriske, som er vigtige
+  for Køge Kommune.
+
 * TODO Diagrammer
 
 ** TODO Diagram over kategorisering af henvendelser
