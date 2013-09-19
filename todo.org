@@ -1,0 +1,20 @@
+* TODO Afklaringer
+
+Afklaring af diverse spørgsmål i forbindelse med tælleugen
+
+** TODO Kanalstrategien
+
+- Hvordan er Køge Kommunes kanalstrategi?
+- Hvilke initiativer har Køge Kommune implementeret vores at udføre
+  strategien
+- Hvordan ser Køge Kommunes nuværende kanalbetjeningsgrad ud?
+
+* TODO Diagrammer
+
+** TODO Diagram over kategorisering af henvendelser
+
+*** DONE Beslutningstræ over csv-registreringsprocessen
+
+*** TODO Beslutningstræ over TraceTool registreringsprocessen
+
+** TODO Diagram over nuværende kanalbetjeningsgrad
