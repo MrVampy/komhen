@@ -111,3 +111,5 @@ Der skelnes mellem transaktioner og informationer i følgende tilfælde:
     - Råd og vejledning
     - Hjælp til selvbetjening
     - Fejlhenvendelse, dvs. en henvendelse til det forkerte sted
+
+- 
