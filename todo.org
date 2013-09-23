@@ -1,4 +1,4 @@
-* TODO Afklaringer
+* TODO Afklaringer Michael
 
 Afklaring af diverse spørgsmål i forbindelse med tælleugen
 
@@ -22,3 +22,92 @@ Afklaring af diverse spørgsmål i forbindelse med tælleugen
 *** TODO Beslutningstræ over TraceTool registreringsprocessen
 
 ** TODO Diagram over nuværende kanalbetjeningsgrad
+* TODO Kontakt enhedsansvarlige
+** TODO Jobcenter FAB
+Helle Guldborg Jensen
+** TODO Ungecenteret FAB
+Jes Kristensen
+** TODO Borgerservice FAB
+Michael Haagensen
+** TODO Borup bibliotek
+Lone Thomsen
+** TODO Skoleafdelingen (BUF) + sekretariatet
+Malene Wind (malene.wind@koege.dk), skoleafdelingen (BUF)
+** TODO Afdeling for dagtilbud BUF
+Tina Andersen (tina.andersen@koege.dk), Pladsanvisningen (BUF)
+** TODO Økonomisk afdeling FKF
+Henriette Rasmussen (henriette.rasmussen@koege.dk), opkrævning.
+** TODO Socialafdelingen SSF
+Christian Vidstid (hele socialafdelingen, ydelsesservice (SSF)
+** TODO Sundhedsafdelingen SSF
+Alice Borgbjerg, Bestiller (-gruppe?) 
+Karen Falkesgaard og Charlotte Lindved, hjælpemidler (SSF)
+** TODO Byg og Plan TMF
+Thøger B. Beknes (thoeger.beknes@koege.dk), byg og plan (TMF)
+** TODO TMFs sekretariat
+Birgith Kristensen (birgith.kristensen@koege.dk), TMFs sekretariat (TMF)
+** TODO Natur og miljø TMF
+Bendt Skodborg Nielsen (bendt.skodborg@koege.dk) (TMF)
+** TODO Veje og byrum TMF
+Bent Kirkegaard Petersen
+** TODO IT-afdelingen FKF - Hjemmesidedata, samt andre tekniske forhold
+Hovedsagelig Henrik Thorning)
+
+* TODO Afklaringer ehnhedsansvarlige
+
+** TODO Måleparametre til TraceTool
+
+De obligatoriske måleparametre:
+1. Kommune
+2. Enhed
+3. Dato
+4. Henvendelseskanal
+5. Opgave
+6. Henvendelsestype
+7. Afslutning
+8. Blanket
+
+- Hvilke ekstra måleparametre kunne i tænke jer at måle på?
+  - Køn
+  - Alder
+  - Postnummer
+  - Varighed af henvendelse
+  - Hvilken personprofil kommer henvendelsen fra?
+  - Klagesag?
+  - Adgang til Internet, privat eller arbejde
+  - Kunne borgeren selv have løst det via Borger.dk
+  - Har borgeren først prøvet at finde information på Kommunens hjemmeside
+
+- Hvilke kanaler bruger I i jeres afdeling?
+  - Selvbetjening
+  - Telefon (ind og ud)
+  - Personligt fremmøde
+  - E-mail (ind og ud)
+  - Papirbrev (ind og ud)
+  - Hjemmeside (centralt)
+  - Digital Post (ind og ud)
+  - SMS (ind og ud)
+  - Chat
+  - Fjernprint
+  - I/O manager (udgående)
+  - Socialt Medie (ind og ud)
+  - System-henvendelser
+
+- Hvilke henvendelses typer bruger i I jeres afdeling?
+  - Sagsspecifikke henvendelser (transaktioner)
+    - En ny sag oprettes
+    - Eksisterende sager der tilføres ændringer/tilføjelser
+    - Kræver typisk CPR, CVR eller andet referencenummer
+  - Informationshenvendelser (informationer)
+    - Hjælp til generelle forhold
+    - Typisk går der informationshenvendelser forud for en transaktionshenvendelse
+
+Der skelnes mellem transaktioner og informationer i følgende tilfælde:
+  - Transaktioner:
+    - Oprettelse af ny sag
+    - Ændring af status på eksisterende sag
+  - Informationer:
+    - Information vedr. eksisterende sag
+    - Råd og vejledning
+    - Hjælp til selvbetjening
+    - Fejlhenvendelse, dvs. en henvendelse til det forkerte sted

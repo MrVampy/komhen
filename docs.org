@@ -1,17 +1,17 @@
 * Tælleugen
 
-**  Dokumenter
-
+** Dokumenter
+   
 *** Afdelinger og tælleansvarlige
 <Dok.nr 2013-1830>: Se mail
 
 Oversigt over afdelinger og enhedsansvarlige, der var involveret i tælleugen.
 
-*** Tælleuge vejledning
+*** Tælleuge vejledning (Baseret på guide fra KL)
 
 <Dok.nr 2013-1827>: Se mail
 
-Kommune specifik guide for Køges kommune.
+Kommune specifik guide for Køges kommune. 
 
 - Indeholder implicitte beslutninger om valg af værktøjer, procedurer, etc.
   for Køge Kommune specifikt.
@@ -55,6 +55,7 @@ Beskrivelse af forhold omkring registrering af henvendelser via hjemmesiden.
 - Emnesider er valgt alt efter om de er kategoriseret som 'informationssider'. 
 - Sider der henviser direkte til en selvbetjeningsløsning er ikke talt med i Siteimproves 
   tællerscript.
+  - Hvorfor?
 - Sider er valgt, så de nogenlunde passer til de relevante KLE-numre.
 
 *** Tællevejledning for arbejdsmarkedsområdet
