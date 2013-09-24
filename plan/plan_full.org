@@ -1,0 +1,58 @@
+* Tælleugeprojekt
+  :PROPERTIES:
+  :COLUMNS: %20ITEM(Opgave) %5Uge(Uge) %7Dag(Dag) %12Status %10Tid{:}
+  :Status_ALL: "Igang" "Ikke startet" "Færdig"
+  :Uge: 39-43
+  :ID: tasks
+  :END:
+** Kontakt enhedsansvarlige
+   :PROPERTIES:
+   :Uge: 39
+   :Dag: Tir-Ons
+   :Tid: 0:00
+   :Status: Ikke startet
+   :END:
+** Opsæt møde med enhedsansvarlige
+   :PROPERTIES:
+   :Uge: 39
+   :Dag: Torsdag
+   :Tid: 0:00
+   :Status: Ikke startet
+   :END:
+** Afhold møde med enhedsansvarlige
+   :PROPERTIES:
+   :Uge: 40
+   :Dag: Man-Ons
+   :Tid: 0:00
+   :Status: Ikke startet
+   :END:
+** Opsæt møder med afdelinger
+   :PROPERTIES:
+   :Uge: 40
+   :Dag: Tor-Fre
+   :Tid: 0:00
+   :Status: Ikke startet
+   :END:
+** Afhold møder med afdelinger
+   :PROPERTIES:
+   :Uge: 41
+   :Dag: Man-Fre
+   :Tid: 0:00
+   :Status: Ikke startet
+   :END:
+** Efterårsferie
+   :PROPERTIES:
+   :Uge: 42
+   :Dag: Man-Fre
+   :Tid: 0:00
+   :Status: Ikke startet
+   :END:
+** Tælleuge
+   :PROPERTIES:
+   :Uge: 43
+   :Dag: Man-Fre
+   :Tid: 0:00
+   :Status: Ikke startet
+   :END:
+
+   
