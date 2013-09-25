@@ -1,56 +1,109 @@
-* Borgerservice
-** Første kontakt <2013-09-24 Tue>:
+* DONE Borgerservice
 Leder: Michael Haagensen
 Enhedsansvarlig: Michael Haagensen
-* Jobcenter 
-** Første kontakt <2013-09-24 Tue>:
-Gorm H. Andersen
-
-Stadig ubesluttet, hvem der er enhedsansvarlig
-
-* Ungecenter
-** Første kontakt <2013-09-24 Tue>: 
-Flemming Udbjørn
-
+* DONE Jobcenter 
+Leder: Gorm H. Andersen
+Enhedsansvarlig: Helle Guldborg Jensen
+** 1. kontakt <2013-09-24 Tue>:
+Telefon Gorm H. Andersen
+** 2. kontakt <2013-09-25 Wed>:
+Modtaget svar e-mail fra enhedsansvarlig: Helle Gulborg Jensen
+* DONE Ungecenter
+Leder: Flemming Udbjørn
 Enhedsansvarlig: Jes Kristensen
-
-* Borup Bibliotek
-** Første kontakt <2013-09-24 Tue>:
-Morten 
-
-Talt med Linda:
-
-Er lukket uge 43
-
-Tælle uge 44?
-
-* BUF: Skoleafdelingen
-** Første kontakt <2013-09-24 Tue>:
+** 1. kontakt <2013-09-24 Tue>: 
+Telefon: Fundet enhedsansvarlig: Jes Kristensen
+* DONE Borup Bibliotek (Skal ikke tælles; har lukket uge 43)
+Leder: Linda
+Enhedsansvarlig: Ikke relevant
+** 1. kontakt <2013-09-24 Tue>:
+Telefon med Linda: Er lukket uge 43
+* DONE BUF: Skoleafdelingen
+Leder: Marianne Levin
 Enhedsansvarlig: Janne Kleffel
-
-* BUF: Pladsanvisning
-** Første kontakt <2013-09-24 Tue>:
+** 1. kontakt <2013-09-24 Tue>:
+* DONE BUF: Pladsanvisning
 Leder: Tina Andersen
 Enhedsansvarlig: Tina Andersen
-
-
-
-* SSF: Socialafdelingen
-** Første kontakt <2013-09-24 Tue>:
-Leder: Gunvor Abrahamsen - Ringer tilbage imorgen
+** 1. kontakt <2013-09-24 Tue>:
+Personlig kontakt med Tina Andersen, som også fungere som enhedsansvarlig
+* DONE SSF: Socialafdelingen
+Leder: Gunvor Abrahamsen
+Enhedsansvarlig: Christian Vidstid
 
 Handicap og Psykiatri udgår
-
-* SSF: Sundhedsafdelingen
-** Første kontakt <2013-09-24 Tue>:
+** 1. kontakt <2013-09-24 Tue>:
+Gunvor Abrahamsen - Ringer tilbage imorgen
+** 2. kontakt <2013-09-25 Wed>:
+Telefon med Majbritt: Gunvor ringer tilbage
+* DONE SSF: Sundhedsafdelingen
 Leder: Rasmus Baagland
-Sendt Mail!
+** Hjælpemiddelteam
+Enhedsansvarlige: 
+- Karen Falkesgaard
+- Charlotte Lindved
 
-* TMF
+** Bestillersektion
+Ikke enhedsansvarlig, men send invitation til: Vivian Raundrup
+
+** 1. kontakt <2013-09-24 Tue>:
+Telefon med Rasmus, som forespurgte informations e-mail
+Jeg har svaret med Informaton e-mail.
+** 2. kontakt <2013-09-24 Tue>:'
+Telefonsvarer: Rasmus Baagland
+
+* DONE TMF: Sekretariat (Udgår)
 TMF Sekretariat udgår
+* DONE TMF: Natur og miljø
+Leder: Bjarne Svendsen
+Enhedsansvarlig: Bendt Skodborg Nielsen
+** 1. kontakt <2013-09-25 Wed>:
+Sendt Informationsmail om tælleugen.
 
+** 2. kontakt <2013-09-25 Wed>:
+Telefon med Bjarne Svendsen: Peger på Bendt Skodborg Nielsen som enhedsansvarlig
 
+* TODO TMF: Byg og Plan
+Leder: Casper Toftholm
+Enhedsansvarlig: ??
+** 1. kontakt <2013-09-25 Wed>:
+Kontaktet sidste års enhedsansvarlig: Thøger B. Beknes (24 55)   
+** 2. kontakt <2013-09-25 Wed>:
+Thøger B. Beknes (24 55): Intet svar
 
-* FKF: Økonomisk afdeling
-** Første kontakt
+** 3. kontakt <2013-09-25 Wed>:
+Sendt mail.
+* DONE TMF: Veje og Byrum
+Leder: Connie Graul (68 27)
+Enhedsansvarlig: Bent Kirkegaard Petersen
+** 1. kontakt <2013-09-25 Wed>:
+Telefonsvarer.
+** 2. kontakt <2013-09-25 Wed>:
+Telefon med Connie Graul: Enhedsansvarlig: Bent Kirkegaard Petersen
 
+** TODO Ekstra spørgsmål
+De har flere henvendelser end dem, der blev optalt sidste år.
+Skal disse tælles med i år?
+* TODO FKF: Økonomisk afdeling
+Leder: Kenneth Nielsen
+Enhedsansvarlig: ??
+** 1. kontakt <2013-09-25 Wed>:
+Telefon med Helle: Kenneth Nielsen ringer tilbage
+** 2. kontakt <2013-09-25 Wed>:
+Sendt mail.
+* TODO FKF: It-afdelingen
+** 1. kontakt <2013-09-25 Wed>:
+Telefonsvarer: Henrik Thorning (22 07)
+** 2. kontakt <2013-09-25 Wed>:
+Telefonsvarer: Henrik Thorning (22 07): Aflagde en besked
+** 3. kontakt <2013-09-25 Wed>:
+Telefon: Tom fra IT-afdelingen
+
+* Kanalstrategi Henrik (68 24)
+** DONE Email <2013-09-25 Wed>:
+- Borup Bibliotek kan ikke tælles, da de har lukket.
+- Der er 45 obligatoriske opgaver
+- TMF Veje og Byrum, kan det passe at der er nogle opgaver, som er 
+  eksterne administrative henvendelser
+
+Modtaget svar
