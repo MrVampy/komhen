@@ -3920,6 +3920,7 @@
 
 
 
+
 .fil0 {fill:#EF7900}.fil0 {fill:#EF7900}</defs>
   <sodipodi:namedview
      id="base"
@@ -3930,7 +3931,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.70710678"
      inkscape:cx="605.52555"
-     inkscape:cy="387.06389"
+     inkscape:cy="631.71574"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -5166,7 +5167,7 @@
          x="10.163682"
          y="485.72891"
          style="font-size:20px"
-         id="tspan6963-6">Registreringstrin:</tspan></text>
+         id="tspan6963-6">Registeringsparametre:</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -5178,17 +5179,17 @@
          id="tspan6969-3"
          x="10.163682"
          y="511.18475"
-         style="font-size:16px">1. KommuneID = 259</tspan><tspan
+         style="font-size:16px">1. KommuneID = Automatisk</tspan><tspan
          sodipodi:role="line"
          x="10.163682"
          y="531.18475"
          style="font-size:16px"
-         id="tspan5946-8">2. Enhed = Enhedsnavn</tspan><tspan
+         id="tspan5946-8">2. Enhed = Automatisk</tspan><tspan
          sodipodi:role="line"
          x="10.163682"
          y="551.18475"
          style="font-size:16px"
-         id="tspan5948-8">3. Dato = DD-MM-ÅÅÅÅ (tt:mm)(:ss)</tspan><tspan
+         id="tspan5948-8">3. Dato = Automatisk</tspan><tspan
          sodipodi:role="line"
          x="10.163682"
          y="571.18475"
@@ -5198,7 +5199,7 @@
          x="10.163682"
          y="591.18475"
          style="font-size:16px"
-         id="tspan4586-5">5. KLE Opgavekode = xx.xx.xx - eks: 02.34.02</tspan><tspan
+         id="tspan4586-5">5. Opgave = Specifik for den enkelte afdeling</tspan><tspan
          sodipodi:role="line"
          x="10.163682"
          y="611.18475"

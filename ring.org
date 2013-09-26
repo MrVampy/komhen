@@ -3,11 +3,11 @@ Leder: Michael Haagensen
 Enhedsansvarlig: Michael Haagensen
 * DONE Jobcenter 
 Leder: Gorm H. Andersen
-Enhedsansvarlig: Helle Guldborg Jensen
+Enhedsansvarlig: Helle Guldberg Jensen
 ** 1. kontakt <2013-09-24 Tue>:
 Telefon Gorm H. Andersen
 ** 2. kontakt <2013-09-25 Wed>:
-Modtaget svar e-mail fra enhedsansvarlig: Helle Gulborg Jensen
+Modtaget svar e-mail fra enhedsansvarlig: Helle Guldberg Jensen
 * DONE Ungecenter
 Leder: Flemming Udbjørn
 Enhedsansvarlig: Jes Kristensen
@@ -44,7 +44,8 @@ Enhedsansvarlige:
 - Charlotte Lindved
 
 ** Bestillersektion
-Ikke enhedsansvarlig, men send invitation til: Vivian Raundrup
+Enhedsansvarlig:
+- Gitte Troelsen
 
 ** 1. kontakt <2013-09-24 Tue>:
 Telefon med Rasmus, som forespurgte informations e-mail
@@ -103,6 +104,9 @@ Telefonsvarer: Henrik Thorning (22 07)
 Telefonsvarer: Henrik Thorning (22 07): Aflagde en besked
 ** 3. kontakt <2013-09-25 Wed>:
 Telefon: Tom fra IT-afdelingen
+
+** 4. kontakt <2013-09-26 Thu>:
+Sendt 
 
 
 * Kanalstrategi Henrik (68 24)
