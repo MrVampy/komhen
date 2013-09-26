@@ -63,9 +63,9 @@ Sendt Informationsmail om tælleugen.
 ** 2. kontakt <2013-09-25 Wed>:
 Telefon med Bjarne Svendsen: Peger på Bendt Skodborg Nielsen som enhedsansvarlig
 
-* TODO TMF: Byg og Plan
+* DONE TMF: Byg og Plan
 Leder: Casper Toftholm
-Enhedsansvarlig: ??
+Enhedsansvarlig: Lone Poulsen
 ** 1. kontakt <2013-09-25 Wed>:
 Kontaktet sidste års enhedsansvarlig: Thøger B. Beknes (24 55)   
 ** 2. kontakt <2013-09-25 Wed>:
@@ -73,6 +73,9 @@ Thøger B. Beknes (24 55): Intet svar
 
 ** 3. kontakt <2013-09-25 Wed>:
 Sendt mail.
+
+** 4. kontakt <2013-09-26 Thu>:
+Modtaget svar fra Thøger Beknes: Enhedsansvarlig Lone Poulsen
 * DONE TMF: Veje og Byrum
 Leder: Connie Graul (68 27)
 Enhedsansvarlig: Bent Kirkegaard Petersen
@@ -84,13 +87,15 @@ Telefon med Connie Graul: Enhedsansvarlig: Bent Kirkegaard Petersen
 ** TODO Ekstra spørgsmål
 De har flere henvendelser end dem, der blev optalt sidste år.
 Skal disse tælles med i år?
-* TODO FKF: Økonomisk afdeling
+* DONE FKF: Økonomisk afdeling
 Leder: Kenneth Nielsen
-Enhedsansvarlig: ??
+Enhedsansvarlig: Henriette Rasmussen
 ** 1. kontakt <2013-09-25 Wed>:
 Telefon med Helle: Kenneth Nielsen ringer tilbage
 ** 2. kontakt <2013-09-25 Wed>:
 Sendt mail.
+** 3. kontakt <2013-09-26 Thu>:
+Modtaget svar fra Kenneth: Enhedsansvarlig Henriette Rasmussen
 * TODO FKF: It-afdelingen
 ** 1. kontakt <2013-09-25 Wed>:
 Telefonsvarer: Henrik Thorning (22 07)
@@ -98,6 +103,7 @@ Telefonsvarer: Henrik Thorning (22 07)
 Telefonsvarer: Henrik Thorning (22 07): Aflagde en besked
 ** 3. kontakt <2013-09-25 Wed>:
 Telefon: Tom fra IT-afdelingen
+
 
 * Kanalstrategi Henrik (68 24)
 ** DONE Email <2013-09-25 Wed>:

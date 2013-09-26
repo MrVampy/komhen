@@ -1,0 +1,67 @@
+* Introduktionsmøde
+
+** Formål med tælleugen
+
+*** Fremtidens Borgerbetjening
+- Overordnet vision
+*** Kanalstrategi
+- Specifik strategi
+- Digital indretning (i dette tilfælde)
+- Kunne også være fysisk indretning
+*** Henvendelsesmønstre
+- Taktisk fokus
+
+** Interessenter til tælleugen
+
+[[file://diagram/stakeholders/stakeholders.svg][Interessent diagram]]
+
+*** Andre kommuner
+*** KL
+*** Direktionen
+*** Den lokale afdeling
+
+** Roller
+[[file://diagram/venn-roles/tov-enh.svg][Rolle diagram]]
+
+*** Rollen som enhedsansvarlig
+- Du er fageksperten for jeres afdeling
+- Dvs. du ved hvilke adminsitive opgaver i løser
+- Dit ansvar er at kategorisere disse opgaver i forhold til KLE-numrene 
+
+*** Rollen som tovholder
+- Jeg er ekspert i den overordnede metode og data indsamlingsværktøjer
+
+*** Tovholder/Enhedsasnvarlig overlap
+- Venn diagram over overlap mellem funktioner
+
+** Hvad skal tælles, ifølge interessenter
+*** Definition af henvendelser
+- Eksterne administrative henvendelser
+- Hvornår er noget en henvendelse
+- Hvornår er noget ikke en henvendelse
+
+*** KL
+- 45 obligatoriske opgaver
+- Obligatoriske parametre
+*** Direktionen
+- 30 ekstra opgaver
+*** Lokal afdeling
+- Eventuelle lokalt bestemte opgaver
+- Eventuelle lokalt bestemte parametre
+Opgavenumre kan findes på [[http://www.kle-online.dk]]
+
+
+*** Beslutningstræ
+*** TraceTool Screenshot over valg af opgaver/parametre 
+
+** Værktøjer og vejledninger
+
+** Næste skridt - Nu
+
+** Næste skridt - Under og efter tælleugen
+
+** Andre tiltag for at sikre succesfuld udførsel
+
+** Spørgsmål
+
+** Kontakt
