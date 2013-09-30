@@ -2733,7 +2733,7 @@
    y1="554.9704"
    x2="493.06857"
    y2="542.41736"
-   gradientTransform="matrix(0.08774223,0,0,0.09818072,730.93316,746.04148)" />
+   gradientTransform="matrix(0.08774223,0,0,0.09818072,730.93316,762.04148)" />
 <filter
    height="3.0366831"
    y="-1.0183415"
@@ -3921,6 +3921,7 @@
 
 
 
+
 .fil0 {fill:#EF7900}.fil0 {fill:#EF7900}</defs>
   <sodipodi:namedview
      id="base"
@@ -3931,7 +3932,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.70710678"
      inkscape:cx="605.52555"
-     inkscape:cy="631.71574"
+     inkscape:cy="462.01011"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -3972,7 +3973,7 @@
          id="tspan3670">Henvendelseskanal?</tspan></text>
     <g
        id="g6999"
-       transform="matrix(1.18881,0,0,1,359.03813,516.95341)"
+       transform="matrix(1.18881,0,0,1,359.03813,532.95341)"
        style="font-family:Gill Sans MT">
       <path
          inkscape:connector-curvature="0"
@@ -3986,34 +3987,10 @@
          d="m 336.3808,215.95588 203.04066,44.44671"
          style="fill:none;stroke:#000000;stroke-width:2.29289007;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend);font-family:Gill Sans MT" />
     </g>
-    <text
-       xml:space="preserve"
-       style="font-size:28.05381393px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Gill Sans MT"
-       x="961.94989"
-       y="612.64471"
-       id="text3235"
-       sodipodi:linespacing="125%"
-       transform="matrix(0.98308052,0.18317391,-0.18317391,0.98308052,0,0)"><tspan
-         sodipodi:role="line"
-         id="tspan3237"
-         x="961.94989"
-         y="612.64471">Udgående?</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:28.05369759px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Gill Sans MT"
-       x="384.71094"
-       y="904.3999"
-       id="text3239"
-       sodipodi:linespacing="125%"
-       transform="matrix(0.97858608,-0.20583802,0.20583802,0.97858608,0,0)"><tspan
-         sodipodi:role="line"
-         id="tspan3241"
-         x="384.71094"
-         y="904.3999">Indgående?</tspan></text>
     <path
        inkscape:connector-curvature="0"
-       style="fill:none;stroke:#000000;stroke-width:1.93951273;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:none;font-family:Gill Sans MT"
-       d="m 760.75319,674.66349 0.98911,59.68073"
+       style="fill:none;stroke:#000000;stroke-width:2.05042744;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:none;font-family:Gill Sans MT"
+       d="m 760.80865,675.1626 0.87819,75.12616"
        id="path3255" />
     <g
        id="g6921"
@@ -4124,74 +4101,88 @@
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="535.19727"
-       y="574.11719"
+       y="563.6319"
        id="text6943"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan6945"
          x="535.19727"
-         y="574.11719"
+         y="563.6319"
          style="font-size:16px">- Personligt fremmøde</tspan><tspan
          sodipodi:role="line"
          x="535.19727"
-         y="594.11719"
+         y="583.6319"
          style="font-size:16px"
          id="tspan6947">-.Telefon</tspan><tspan
          sodipodi:role="line"
          x="535.19727"
-         y="614.11719"
+         y="603.6319"
          style="font-size:16px"
          id="tspan6949">- E-mail</tspan><tspan
          sodipodi:role="line"
          x="535.19727"
-         y="634.11719"
+         y="623.6319"
          style="font-size:16px"
          id="tspan6951">- Papirbrev</tspan><tspan
          sodipodi:role="line"
          x="535.19727"
-         y="654.11719"
+         y="643.6319"
          style="font-size:16px"
-         id="tspan6955">- SMS</tspan></text>
+         id="tspan6955">- SMS</tspan><tspan
+         sodipodi:role="line"
+         x="535.19727"
+         y="663.6319"
+         style="font-size:16px"
+         id="tspan3836">- Digital Post</tspan><tspan
+         sodipodi:role="line"
+         x="535.19727"
+         y="683.6319"
+         style="font-size:16px"
+         id="tspan3840">- Output Manager</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="829.60864"
-       y="574.60901"
+       y="563.29529"
        id="text6943-4"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan6945-2"
          x="829.60864"
-         y="574.60901"
-         style="font-size:16px">= PRSNLG (kun ingående)</tspan><tspan
+         y="563.29529"
+         style="font-size:16px">= kun ingående</tspan><tspan
          sodipodi:role="line"
          x="829.60864"
-         y="594.60901"
+         y="583.29529"
          style="font-size:16px"
-         id="tspan6947-9">= TLFXXX (ind- el. udgående)</tspan><tspan
+         id="tspan6947-9">= ind- el. udgående</tspan><tspan
          sodipodi:role="line"
          x="829.60864"
-         y="614.60901"
+         y="603.29529"
          style="font-size:16px"
-         id="tspan6949-3">= EMLXXX (ind- el. udgående)</tspan><tspan
+         id="tspan6949-3">= ind- el. udgående</tspan><tspan
          sodipodi:role="line"
          x="829.60864"
-         y="634.60901"
+         y="623.29529"
          style="font-size:16px"
-         id="tspan6951-3">= PPRXXX (ind- el. udgående)</tspan><tspan
+         id="tspan6951-3">= ind- el. udgående</tspan><tspan
          sodipodi:role="line"
          x="829.60864"
-         y="654.60901"
+         y="643.29529"
          style="font-size:16px"
-         id="tspan6955-6">= SMSXXX (ind- el. udgående)</tspan></text>
-    <path
-       inkscape:connector-curvature="0"
-       style="fill:url(#linearGradient7199);fill-opacity:1;fill-rule:evenodd;stroke:none"
-       d="m 779.39611,761.66341 c 0,0 2.93715,14.78959 1.83572,25.88174 -1.10143,11.0922 -1.60039,32.4729 -1.60039,32.4729 0,0 -14.39382,-0.2784 -18.4324,5.4731 -4.03858,5.7515 -1.62868,5.0277 -1.62868,5.0277 0,0 18.35718,-25.4709 19.09146,-32.8657 0.73429,-7.3948 -4.77286,-7.8056 -5.14001,-13.968 -0.36714,-6.1623 5.50716,-20.37845 5.8743,-22.02174 z"
-       id="path3185"
-       sodipodi:nodetypes="cscscssc" />
+         id="tspan6955-6">= ind- el. udgående</tspan><tspan
+         sodipodi:role="line"
+         x="829.60864"
+         y="663.29529"
+         style="font-size:16px"
+         id="tspan3838">= ind- el. udgående</tspan><tspan
+         sodipodi:role="line"
+         x="829.60864"
+         y="683.29529"
+         style="font-size:16px"
+         id="tspan3842">= kun udgående</tspan></text>
     <g
-       transform="matrix(0.29423756,0,0,-0.24226789,646.22616,829.38695)"
+       transform="matrix(0.29423756,0,0,-0.24226789,646.22616,845.38695)"
        id="layer1-1"
        inkscape:label="Layer 1"
        style="fill:#008000">
@@ -4214,7 +4205,7 @@
       </g>
     </g>
     <g
-       transform="matrix(0.26666836,0,0,0.23751455,924.64978,621.86028)"
+       transform="matrix(0.26666836,0,0,0.23751455,924.64978,637.86028)"
        id="layer1-1-1"
        inkscape:label="Layer 1"
        style="fill:#5f8dd3">
@@ -4223,53 +4214,19 @@
          id="g3373-7"
          style="fill:#5f8dd3">
         <path
-           style="fill:#5f8dd3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:5.40000009999999975;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           style="fill:#5f8dd3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:5.4000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
            d="m 516.42857,463.79076 0,-70.00001 92.85714,0 -22.15476,-38.37316 133.98053,72.49654 -129.35119,76.49407 18.45325,-40.07561 -93.78497,-0.54183 z"
            id="path3375-2"
            sodipodi:nodetypes="cccccccc"
            inkscape:connector-curvature="0" />
         <path
-           style="opacity:0.95454543999999997;fill:#5f8dd3;fill-opacity:1;fill-rule:evenodd;stroke:none;filter:url(#filter3347-8)"
+           style="opacity:0.95454544;fill:#5f8dd3;fill-opacity:1;fill-rule:evenodd;stroke:none;filter:url(#filter3347-8)"
            d="m 649.90594,420.21932 c 29.69787,0.0398 25.39639,-0.0798 55.09405,0.0532 l 14.28571,9.9468 -14.28571,7.80392 -55.09405,0.0532 c -41.02304,0 -134.0488,11.97627 -134.0488,11.94679 l 0,-45.75072 c 0,0 93.02576,15.94679 134.0488,15.94679 z"
            id="path3377-7"
            sodipodi:nodetypes="cccccccc"
            inkscape:connector-curvature="0" />
       </g>
     </g>
-    <text
-       xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="335.70605"
-       y="792.79999"
-       id="text6967-2"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan6969-0"
-         x="335.70605"
-         y="792.79999"
-         style="font-size:16px">XXXIND -  eks: TLFIND</tspan><tspan
-         sodipodi:role="line"
-         x="335.70605"
-         y="812.79999"
-         style="font-size:16px"
-         id="tspan6971-0" /></text>
-    <text
-       xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="1024.9885"
-       y="785.72888"
-       id="text6967-2-6"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan6969-0-2"
-         x="1024.9885"
-         y="785.72888"
-         style="font-size:16px">XXXUD -  eks: TLFUD</tspan><tspan
-         sodipodi:role="line"
-         x="1024.9885"
-         y="805.72888"
-         style="font-size:16px"
-         id="tspan6971-0-8" /></text>
     <text
        xml:space="preserve"
        style="font-size:24.83289909px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Gill Sans MT"
@@ -5115,50 +5072,6 @@
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="667.43018"
-       y="1179.8727"
-       id="text6943-4-1"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan6945-2-0"
-         x="667.43018"
-         y="1179.8727"
-         style="font-size:16px">= OPRET</tspan><tspan
-         sodipodi:role="line"
-         x="667.43018"
-         y="1199.8727"
-         style="font-size:16px"
-         id="tspan6947-9-0">= INFO</tspan><tspan
-         sodipodi:role="line"
-         x="667.43018"
-         y="1219.8727"
-         style="font-size:16px"
-         id="tspan6955-6-1">= STATUS</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="1231.6648"
-       y="1179.6096"
-       id="text6943-4-1-1"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan6945-2-0-6"
-         x="1231.6648"
-         y="1179.6096"
-         style="font-size:16px">= VEJL</tspan><tspan
-         sodipodi:role="line"
-         x="1231.6648"
-         y="1199.6096"
-         style="font-size:16px"
-         id="tspan6947-9-0-5">= SLVBTJN</tspan><tspan
-         sodipodi:role="line"
-         x="1231.6648"
-         y="1219.6096"
-         style="font-size:16px"
-         id="tspan6955-6-1-0">= FEJL</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="10.163682"
        y="485.72891"
        id="text6959-5"
@@ -5194,31 +5107,53 @@
          x="10.163682"
          y="571.18475"
          style="font-size:16px"
-         id="tspan5944-8">4. Henvendelseskanal = XXXXXX - eks: TLFIND</tspan><tspan
+         id="tspan5944-8">4. Henvendelseskanal = Manuelt valg</tspan><tspan
          sodipodi:role="line"
          x="10.163682"
          y="591.18475"
          style="font-size:16px"
-         id="tspan4586-5">5. Opgave = Specifik for den enkelte afdeling</tspan><tspan
+         id="tspan4586-5">5. Opgave = Manuelt valg</tspan><tspan
          sodipodi:role="line"
          x="10.163682"
          y="611.18475"
          style="font-size:16px"
-         id="tspan6971-9">6. Henvendelsestype = XXXXXX - eks: SLVBTJN</tspan><tspan
+         id="tspan6971-9">6. Henvendelsestype = Manuelt valg</tspan><tspan
          sodipodi:role="line"
          x="10.163682"
          y="631.18475"
          style="font-size:16px"
-         id="tspan5396-3">7. Afslutning = XXXXXX - eks: STRAKS</tspan><tspan
+         id="tspan5396-3">7. Afslutning = Manuelt valg</tspan><tspan
          sodipodi:role="line"
          x="10.163682"
          y="651.18475"
          style="font-size:16px"
-         id="tspan9463">8. Blanket = JA/NEJ</tspan></text>
+         id="tspan9463">8. Blanket = Manuelt valg - JA/NEJ</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:1.64652765;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        d="m -22.439991,676.72442 441.388111,0 0,-230.67028"
        id="path4590-4"
        inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:24.83289909px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Gill Sans MT"
+       x="1151.8091"
+       y="807.85016"
+       id="text2182-5"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         x="1151.8091"
+         y="807.85016"
+         id="tspan3670-5">Udgående</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24.83289909px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Gill Sans MT"
+       x="512.25037"
+       y="813.98151"
+       id="text2182-5-1"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         x="512.25037"
+         y="813.98151"
+         id="tspan3670-5-7">Indgående</tspan></text>
   </g>
 </svg>

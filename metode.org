@@ -1,0 +1,6 @@
+* Hjemmesiden
+
+- Sidste år blev alle informationsside kategoriseret efter KLE-numre
+- Disse informationssider blev sendt ind til Siteimprove, så de kunne tælle
+  antal besøg
+- Sider der henviste direkte til selvbetjeningsløsninger var ikke medtaget

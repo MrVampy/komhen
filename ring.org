@@ -97,7 +97,9 @@ Telefon med Helle: Kenneth Nielsen ringer tilbage
 Sendt mail.
 ** 3. kontakt <2013-09-26 Thu>:
 Modtaget svar fra Kenneth: Enhedsansvarlig Henriette Rasmussen
-* TODO FKF: It-afdelingen
+* DONE FKF: It-afdelingen
+Enhedsansvarlig: Bartek Rohard Warszawski
+
 ** 1. kontakt <2013-09-25 Wed>:
 Telefonsvarer: Henrik Thorning (22 07)
 ** 2. kontakt <2013-09-25 Wed>:
