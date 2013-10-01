@@ -1,60 +1,29 @@
-* TODO Afklaringer Michael
+* DONE Afklaringer Michael
 
 Afklaring af diverse spørgsmål i forbindelse med tælleugen
 
-** TODO Kanalstrategien
+** DONE Kanalstrategien
 
 - Hvordan er Køge Kommunes kanalstrategi?
 - Hvilke initiativer har Køge Kommune implementeret vores at udføre
   strategien
 - Hvordan ser Køge Kommunes nuværende kanalbetjeningsgrad ud?
 
-** TODO Ekstra måleparametre
+** DONE Ekstra måleparametre
 - Hvad er de ekstra måleparametre, udover de obligatoriske, som er vigtige
   for Køge Kommune.
 
-* TODO Diagrammer
+* DONE Diagrammer
 
-** TODO Diagram over kategorisering af henvendelser
+** DONE Diagram over kategorisering af henvendelser
 
 *** DONE Beslutningstræ over csv-registreringsprocessen
 
 *** TODO Beslutningstræ over TraceTool registreringsprocessen
 
-** TODO Diagram over nuværende kanalbetjeningsgrad
-* TODO Kontakt enhedsansvarlige
-** TODO Jobcenter FAB
-Helle Guldborg Jensen
-** TODO Ungecenteret FAB
-Jes Kristensen
-** TODO Borgerservice FAB
-Michael Haagensen
-** TODO Borup bibliotek
-Lone Thomsen
-** TODO Skoleafdelingen (BUF) + sekretariatet
-Malene Wind (malene.wind@koege.dk), skoleafdelingen (BUF)
-** TODO Afdeling for dagtilbud BUF
-Tina Andersen (tina.andersen@koege.dk), Pladsanvisningen (BUF)
-** TODO Økonomisk afdeling FKF
-Henriette Rasmussen (henriette.rasmussen@koege.dk), opkrævning.
-** TODO Socialafdelingen SSF
-Christian Vidstid (hele socialafdelingen, ydelsesservice (SSF)
-** TODO Sundhedsafdelingen SSF
-Alice Borgbjerg, Bestiller (-gruppe?) 
-Karen Falkesgaard og Charlotte Lindved, hjælpemidler (SSF)
-** TODO Byg og Plan TMF
-Thøger B. Beknes (thoeger.beknes@koege.dk), byg og plan (TMF)
-** TODO TMFs sekretariat
-Birgith Kristensen (birgith.kristensen@koege.dk), TMFs sekretariat (TMF)
-** TODO Natur og miljø TMF
-Bendt Skodborg Nielsen (bendt.skodborg@koege.dk) (TMF)
-** TODO Veje og byrum TMF
-Bent Kirkegaard Petersen
-** TODO IT-afdelingen FKF - Hjemmesidedata, samt andre tekniske forhold
-Hovedsagelig Henrik Thorning)
-
+** DONE Diagram over nuværende kanalbetjeningsgrad
+* DONE Kontakt enhedsansvarlige
 * TODO Afklaringer ehnhedsansvarlige
-
 ** TODO Måleparametre til TraceTool
 
 De obligatoriske måleparametre:
@@ -113,3 +82,8 @@ Der skelnes mellem transaktioner og informationer i følgende tilfælde:
     - Fejlhenvendelse, dvs. en henvendelse til det forkerte sted
 
 - 
+
+
+
+* TODO Opsætning af komhen.github.io
+* TODO Publicering af vejledninger på komhen.github.io

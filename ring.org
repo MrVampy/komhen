@@ -8,6 +8,7 @@ Enhedsansvarlig: Helle Guldberg Jensen
 Telefon Gorm H. Andersen
 ** 2. kontakt <2013-09-25 Wed>:
 Modtaget svar e-mail fra enhedsansvarlig: Helle Guldberg Jensen
+
 * DONE Ungecenter
 Leder: Flemming Udbjørn
 Enhedsansvarlig: Jes Kristensen
