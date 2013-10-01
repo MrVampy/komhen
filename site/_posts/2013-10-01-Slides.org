@@ -1,0 +1,8 @@
+---
+layout: post
+title: Præsentationer
+---
+
+* {{ page.title }} 
+
+[[{{ site.url }}/assets/intro.pdf][Introduktionsmøde for enhedsansvarlige d. 2/10 - 2013]]

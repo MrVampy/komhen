@@ -1,0 +1,6 @@
+jekyll build --destination komhen.github.io
+cd komhen.github.io
+git add -u
+git commit -m "publish"
+git push origin master
+
