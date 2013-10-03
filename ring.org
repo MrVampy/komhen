@@ -1,19 +1,29 @@
+Enhedsansvarlige:
+
 * DONE Borgerservice
 Leder: Michael Haagensen
 Enhedsansvarlig: Michael Haagensen
+
+Intro: Tilstede
+
 * DONE Jobcenter 
 Leder: Gorm H. Andersen
 Enhedsansvarlig: Helle Guldberg Jensen
+
+Intro: Tilstede
 ** 1. kontakt <2013-09-24 Tue>:
 Telefon Gorm H. Andersen
 ** 2. kontakt <2013-09-25 Wed>:
 Modtaget svar e-mail fra enhedsansvarlig: Helle Guldberg Jensen
 
-* DONE Ungecenter
+* TODO Ungecenter
 Leder: Flemming Udbjørn
 Enhedsansvarlig: Jes Kristensen
 ** 1. kontakt <2013-09-24 Tue>: 
 Telefon: Fundet enhedsansvarlig: Jes Kristensen
+
+** Opfølgning på tælleuge
+
 * DONE Borup Bibliotek (Skal ikke tælles; har lukket uge 43)
 Leder: Linda
 Enhedsansvarlig: Ikke relevant
@@ -22,13 +32,15 @@ Telefon med Linda: Er lukket uge 43
 * DONE BUF: Skoleafdelingen
 Leder: Marianne Levin
 Enhedsansvarlig: Janne Kleffel
+Intro: Tilstede
 ** 1. kontakt <2013-09-24 Tue>:
 * DONE BUF: Pladsanvisning
 Leder: Tina Andersen
 Enhedsansvarlig: Tina Andersen
+Intro: Tilstede
 ** 1. kontakt <2013-09-24 Tue>:
 Personlig kontakt med Tina Andersen, som også fungere som enhedsansvarlig
-* DONE SSF: Socialafdelingen
+* TODO SSF: Socialafdelingen
 Leder: Gunvor Abrahamsen
 Enhedsansvarlig: Christian Vidstid
 
@@ -37,17 +49,19 @@ Handicap og Psykiatri udgår
 Gunvor Abrahamsen - Ringer tilbage imorgen
 ** 2. kontakt <2013-09-25 Wed>:
 Telefon med Majbritt: Gunvor ringer tilbage
+
+** Opfølgning på intromøde
 * DONE SSF: Sundhedsafdelingen
 Leder: Rasmus Baagland
 ** Hjælpemiddelteam
 Enhedsansvarlige: 
 - Karen Falkesgaard
 - Charlotte Lindved
-
+Intro: Tilstede
 ** Bestillersektion
 Enhedsansvarlig:
 - Gitte Troelsen
-
+Intro: Tilstede
 ** 1. kontakt <2013-09-24 Tue>:
 Telefon med Rasmus, som forespurgte informations e-mail
 Jeg har svaret med Informaton e-mail.
@@ -59,13 +73,14 @@ TMF Sekretariat udgår
 * DONE TMF: Natur og miljø
 Leder: Bjarne Svendsen
 Enhedsansvarlig: Bendt Skodborg Nielsen
+Intro: Tilstede
 ** 1. kontakt <2013-09-25 Wed>:
 Sendt Informationsmail om tælleugen.
 
 ** 2. kontakt <2013-09-25 Wed>:
 Telefon med Bjarne Svendsen: Peger på Bendt Skodborg Nielsen som enhedsansvarlig
 
-* DONE TMF: Byg og Plan
+* TODO TMF: Byg og Plan
 Leder: Casper Toftholm
 Enhedsansvarlig: Lone Poulsen
 ** 1. kontakt <2013-09-25 Wed>:
@@ -78,9 +93,12 @@ Sendt mail.
 
 ** 4. kontakt <2013-09-26 Thu>:
 Modtaget svar fra Thøger Beknes: Enhedsansvarlig Lone Poulsen
+
+** Opfølgning på introduktionsmøde
 * DONE TMF: Veje og Byrum
 Leder: Connie Graul (68 27)
 Enhedsansvarlig: Bent Kirkegaard Petersen
+Intro: Tilstede
 ** 1. kontakt <2013-09-25 Wed>:
 Telefonsvarer.
 ** 2. kontakt <2013-09-25 Wed>:
@@ -92,13 +110,15 @@ Skal disse tælles med i år?
 * DONE FKF: Økonomisk afdeling
 Leder: Kenneth Nielsen
 Enhedsansvarlig: Henriette Rasmussen
+Intro: tilstede
+
 ** 1. kontakt <2013-09-25 Wed>:
 Telefon med Helle: Kenneth Nielsen ringer tilbage
 ** 2. kontakt <2013-09-25 Wed>:
 Sendt mail.
 ** 3. kontakt <2013-09-26 Thu>:
 Modtaget svar fra Kenneth: Enhedsansvarlig Henriette Rasmussen
-* DONE FKF: It-afdelingen
+* TODO FKF: It-afdelingen
 Enhedsansvarlig: Bartek Rohard Warszawski
 
 ** 1. kontakt <2013-09-25 Wed>:
@@ -112,6 +132,8 @@ Telefon: Tom fra IT-afdelingen
 Sendt 
 
 
+** Opfølgning på introduktionsmøde
+
 * Kanalstrategi Henrik (68 24)
 ** DONE Email <2013-09-25 Wed>:
 - Borup Bibliotek kan ikke tælles, da de har lukket.
@@ -120,3 +142,27 @@ Sendt
   eksterne administrative henvendelser
 
 Modtaget svar
+
+
+* Intro til tælleuge
+** TODO Bartek Rohard - IT
+Sendt mail <2013-10-03 Thu>
+** TODO Christian Vidstid - SSF
+Sendt mail <2013-10-03 Thu>
+** TODO Lone Poulsen - TMF Byg og plan
+
+Skolehenvendelser
+
+
+
+Aftalt samtale <2013-10-03 Thu>
+** TODO Jes Kristensen - Ungecentret
+Sendt mail <2013-10-03 Thu>
+
+* Opgaveafklaring
+
+** Udlån af offentlige faciliteter
+** Bistandstillæg
+Jobcenter
+** Plejetillæg
+Støttehjælper
