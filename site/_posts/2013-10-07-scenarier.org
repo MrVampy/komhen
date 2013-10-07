@@ -1,0 +1,6 @@
+---
+layout: post
+title: Scenarier for registrering
+---
+
+* {{ page.title }} 
