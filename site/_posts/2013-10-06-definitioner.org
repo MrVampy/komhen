@@ -16,3 +16,4 @@ vælge den specifikke kategorisering.
 Der medfølger en blanket hvis følgende kriterier er opfyldt:
 - Det er den korrekte type af blanket
 - Blanketten er delvist eller helt udfyldt, med korrekte informationer 
+** Fejlhenvendelser
