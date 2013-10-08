@@ -1,0 +1,18 @@
+---
+layout: post
+title: Definitioner
+---
+
+* {{ page.title }}
+
+På denne sider finder du en oversigt over definitionerne, der bruges til
+kategorisering af henvendelser.
+
+Når du læser nedenstående definitioner er de kriteriet for hvorfor du skal
+vælge den specifikke kategorisering.
+
+** Blanketter
+
+Der medfølger en blanket hvis følgende kriterier er opfyldt:
+- Det er den korrekte type af blanket
+- Blanketten er delvist eller helt udfyldt, med korrekte informationer 
