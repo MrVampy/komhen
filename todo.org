@@ -36,7 +36,7 @@ De obligatoriske måleparametre:
 7. Afslutning
 8. Blanket
 
-- Hvilke ekstra måleparametre kunne i tænke jer at måle på?
+be- Hvilke ekstra måleparametre kunne i tænke jer at måle på?
   - Køn
   - Alder
   - Postnummer

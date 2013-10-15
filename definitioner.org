@@ -1,0 +1,6 @@
+* Definitioner
+
+** Blanketter
+
+Blanketter registreres kun, hvis de er relevante for henvendelsen, og er udfyldt
+helt eller delvist korrekt.

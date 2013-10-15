@@ -82,3 +82,70 @@ Træningsmateriale:
 - Introduktion og gennemgang af rammen for henvendelseskategorisering
   - Rammen for henvendelseskategoriseringen afspejler den information
     som kan er væsentlig for at måle effekten af kanalstrategien
+
+
+* Demonstration i TraceTool
+- Specificeret ramme over hvad der skal registreres
+  - Jeg vil tilbyde jer en ramme for at ræsonnere jer frem til hvad der er en
+    henvendelse, samt hvordan en henvendelse skal kategoriseres
+  - Det er meget vigtigt at alle er enige om hvad en henvendelse er, da dette
+    er et fælleskommunalt projekt, som skal kunne sammenlignes kommuner imellem
+  - Der er derefter op til jer at bruge denne ramme, når i konkret skal vurdere
+    hvad der er en henvendelse og hvordan den skal registreres.
+
+
+** Henvendelser
+*** Administrative henvendelser
+- Definition - Eksterne administrative henvendelser
+
+- Hvad tæller som henvendelser
+  - Når en borger eller anden interessent henvender sig angående een af de
+    opgivede opgaver - Indgående
+  - Når en medarbejder fra kommunen henvender sig til borgeren angående
+    administrative forhold - Udgående
+    
+  - Scenarie 1: En borger ringer til en forvaltning for at få oplysning på en sag
+    Medarbejderen, der besvarer opkaldet kan ikke hjælpe, men informerer borgeren
+    om at personen vil blive ringet op senere - Ingående (information om eksisterende sag)
+    Den pågældende medarbejder vil så ringe borgeren op på et senere tidspunkt - Udgående
+    (information om eksisterende sag)
+  - Scenarie 2: En borger ringer direkte til en sagsbehandler for at få grundlaget for en sagsafgørelse.
+    Medarbejderen tager ikke telefonen, og borgeren lægger en besked på telefonsvareren - Indgående
+    (Information om eksisterende sag)
+    Medarbejderen aflytter senere beskeden og følger op på henvendelsen - Udgående
+    (Information om eksisterende sag)
+    - Udøvende aktiviteter, så som fysiske møder og adviser, etc. er ikke administrative
+      henvendelser.
+  - Hvis borgeren henvender sig om flere forskellige opgaver, skal disse registreres
+    som flere separate henvendelser - Indgående
+    - Scenarie: En borger har mistet sin pung og henvender sig for at få genbestilt
+      sine mistede kort
+
+
+*** Administrative opgavetyper
+
+
+** Hvem skal registrere?
+- Alle enheder i kommunen, der varetager administrative opgaver. 
+- For at undgå dobbeltregistering, er det personen, som afslutter henvendelsen,
+  der registrerer.
+
+- Scenarie: En borger henvender sig til Borgerservice receptionen og får tildelt et
+  kønummer til en sagsbehandler i baglandet. Selvom borgeren i starten henvender
+  sig til receptionen, er det sagsbehandleren, der afslutter henvendelsen, og dermed
+  registrerer den.
+
+** Ramme - Måleparametre
+
+- Et parameter er en måde at kategorisere en henvendelse
+- Disse parametre er ens for alle kommuner, i tælleugen, hvilket gør
+  det muligt at sammenligne på tværs af kommuner
+
+- Tabel over måleparametre
+  - Blanketter
+    - Blanketter er udtryk for struktureret information. Hvis borgeren
+      selv har udfyldt en blanket skal det registreres, som en henvendelse.
+      Ellers ikke.
+
+- Improvisation af konkrete scenarier for den konkrete afdeling
+

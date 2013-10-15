@@ -1,0 +1,85 @@
+#+TITLE: Sidste notat inden tælleugen
+#+AUTHOR: Thomas Baasch Andersen
+#+ODT_STYLES_FILE: ("/home/thomas/Templates/simple.ott" ("styles.xml"))
+
+* Administrative versus udøvende henvendelser
+Der skal kun registreres administrative henvendelser og ikke udøvende henvendelser. Administrative henvendelser
+omhandler planlægning, vejledning og sagsbehandling, for at de
+de udøvende aktiviteter kan finde sted. Eksempelvis er det nødvendigt
+for sagsbehandleren at opsætte møder, informere borgeren før mødet i det
+omfang, det er nødvendigt gennem administrative henvendelser. I modsætning til dette,
+er selve mødet en udøvende henvendelse, og skal derfor ikke registreres.
+
+* Afsluttende led i henvendelsen registrerer
+For at undgå dobbeltregistreringer er det den person, der afslutter
+henvendelsen med borgeren, som registrerer den. Vær opmærksom på dette, når en borger
+eksempelvis afleverer en blanket ved skranken, og denne blanket ryger videre
+til en sagsbehandler. Her er det personen ved skranken, der afslutter henvendelsen,
+da sagsbehandleren ikke har direkte kontakt med borgeren. I modsætning til dette,
+vil eventuelt brevpost leveret direkte til sagsbehandleren, skulle registreres af
+sagsbehandleren, da han/hun har direkte brevkontakt med borgeren.
+Sørg derfor at holde blanketter o.l. modtaget og registreret ved skranken
+adskilt fra post, der ryger direkte til sagsbehandleren.
+
+* Blanketter
+Der gælder følgende definition for registrering af medfølgende blanket:
+
+- Indgående blanketter: 
+  - Blanketten skal være af korrekt type
+  - Skal være helt eller delvist udfyldt
+- Udgående blanketter, typisk via udsendt brev med blanket o.l.:
+  - Blanketten skal have til formål at indsamle information
+    fra en borger eller virksomhed
+
+* Fejlhenvendelser
+Der er tale om fejlhenvendelser, når der modtages en henvendelse
+om et område eller opgave, som ikke ligger i Køge Kommunes regi.
+
+Der er således *ikke* tale om en fejlhenvendelse, når en afdeling
+i kommunen modtager en henvendelse, der bliver varetaget af en anden
+afdeling i kommunen, og stadig er i kommunens regi.
+
+Udbetaling Danmark er en undtagelse, da opgaverne i deres varetægt er overgået
+fra Køge Kommune for nyligt. For afdelinger, der har rådgivningpligt skal disse 
+ikke registreres som fejlhenvendelser, men som råd og vejledning.
+For andre afdelinger, registreres disse som fejlhenvendelser, da Udbetaling DK's opgaver 
+ikke fremgår i jeres TraceTool.
+
+Alle andre henvendelser omhandlende opgaver udenfor Køge Kommunes regi,
+inklusiv, henvendelser, så som flytninger, der varetages af en anden kommune,
+skal registreres som fejlhenvendelse.
+
+* Output Manager
+Når der registreres Digital Post, bør der laves en skildring mellem brugen af
+Output Manager, eks. Doc2Mail, og at sende digitalt. En henvendelse skal kun
+registreres som værende Digital Post, hvis det er sikkert at henvendelsen ender i
+borgerens digitale postkasse. Hvis man bruger Doc2Mail, og lader det være op til
+denne at bestemme om brevet bliver sendt digitalt eller som fjernprint, skal henvendelsen registreres som *Output Manager*.
+
+* Masseforsendelser
+Hvis jeres afdeling har masseforsendelser, dvs. mange forsendelser der omhandler samme
+type registreringselementer, kan disse registreres separat, og ikke nødvendigvis,
+manuelt gennem TraceTool. Kontakt mig hvis jeres afdeling har masseforsendelser.
+
+* Flere i én henvendelse
+Det er muligt at en borger henvender sig om flere ting på én gang. Disse skal
+registreres som to henvendelser, hvis det handler om to forskellige opgaver
+eller sager. 
+Det skal således ikke registreres som to henvendelser, hvis en
+borger møder op med en blanket for at oprette en sag, og samtidig spørger ind
+til generel information om samme sag.
+Til gengæld, skal det registreres, hvis en borger eksempelvis møder ind i Jobcentret for at
+søge om kontanthjælp, og samtidig spørger ind til generel information om erhvervspraktik.
+
+* Afslutning
+Der er to slags afslutninger: 1) straksafsluttet og 2) lagt til videre behandling.
+Hvis henvendelsen bliver afsluttet øjeblikkeligt, eksempelvis at borgeren får svar med
+det samme, er der tale om en straksafslutning. Alt andet er "lagt til videre behandling".
+For indgående henvendelser, er det kun muligt at straksafslutte personlige og
+telefoniske henvendelser. E-mail, breve, digital post, etc. har en forsinkelse,
+der gør dem uanvendelige til straksafslutning. Disse "mere langsomme" kanaler skal derfor
+registreres som lagt til videre behandling.
+Ved udgående henvendelser er det også kun personlige og telefoniske henvendelser,
+der er anvendelige til straksafslutning. En sådan straksafslutning vil eksempelvis være, når en sagsbehandler vender tilbage med et svar
+til en borger, og henvendelsen afsluttes. De resterende kanaler bør registreres som
+lagt til videre behandling af samme årsag, som ved indgående henvendelser.

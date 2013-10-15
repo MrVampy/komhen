@@ -1,4 +1,4 @@
-Enhedsansvarlige:
+Kontakt til enhedsansvarlige:
 
 * DONE Borgerservice
 Leder: Michael Haagensen
@@ -6,6 +6,9 @@ Enhedsansvarlig: Michael Haagensen
 
 Intro: Tilstede
 
+** DONE Opfølgning på opgaver <2013-10-10 Thu>
+** DONE Sendt brugere til TraceTool - Information <2013-10-10 Thu>
+** DONE Sendt brugere til TraceTool - Borgerservice <2013-10-10 Thu>
 * DONE Jobcenter 
 Leder: Gorm H. Andersen
 Enhedsansvarlig: Helle Guldberg Jensen
@@ -22,25 +25,45 @@ Enhedsansvarlig: Jes Kristensen
 ** 1. kontakt <2013-09-24 Tue>: 
 Telefon: Fundet enhedsansvarlig: Jes Kristensen
 
-** Opfølgning på tælleuge
+** DONE Opfølgning på tælleuge
+Møde <2013-10-14 Mon> kl 10.00
+** DONE Møde om tælleuge <2013-10-14 Mon>
+Jes registrerer så meget han kan af henvendelser
+- Indgående post, som han håndterer
+
+Jes sørger for at udlevere papirsskemaer til registrering hver morgen.
+Sørger desuden for at indtaste registreringerne i TraceTool
+
+Der er forskel på administrative og udøvende aktiviteter. Det er kun de
+administrative aktiviteter, der skal registreres.
+- Dvs. aktiviteter, der vedrører vejledning, behandling etc., af kommunens
+  opgaver i forhold til borgeren.
+
+
 
 * DONE Borup Bibliotek (Skal ikke tælles; har lukket uge 43)
 Leder: Linda
 Enhedsansvarlig: Ikke relevant
 ** 1. kontakt <2013-09-24 Tue>:
 Telefon med Linda: Er lukket uge 43
-* DONE BUF: Skoleafdelingen
+* DONE BUF: Skoleafdelingen og Familierådgivningen
 Leder: Marianne Levin
 Enhedsansvarlig: Janne Kleffel
 Intro: Tilstede
 ** 1. kontakt <2013-09-24 Tue>:
+** DONE Sendt opfølgning på opgaveliste <2013-10-07 Mon>
+** DONE Oprettet bruger i TraceTool - Familierådgivningen <2013-10-08 Tue>
+** DONE Oprettet bruger i TraceTool - Skoleafdelingen <2013-10-08 Tue>
+
 * DONE BUF: Pladsanvisning
 Leder: Tina Andersen
 Enhedsansvarlig: Tina Andersen
 Intro: Tilstede
 ** 1. kontakt <2013-09-24 Tue>:
 Personlig kontakt med Tina Andersen, som også fungere som enhedsansvarlig
-* TODO SSF: Socialafdelingen
+** DONE Sendt opfølgning på opgaveliste <2013-10-07 Mon>
+** DONE Oprettet bruger i TraceTool <2013-10-08 Tue>
+* DONE SSF: Socialafdelingen
 Leder: Gunvor Abrahamsen
 Enhedsansvarlig: Christian Vidstid
 
@@ -50,18 +73,31 @@ Gunvor Abrahamsen - Ringer tilbage imorgen
 ** 2. kontakt <2013-09-25 Wed>:
 Telefon med Majbritt: Gunvor ringer tilbage
 
-** Opfølgning på intromøde
+** DONE Opfølgning på intromøde <2013-10-07 Mon>
+** DONE Opfølgning på opgaver <2013-10-10 Thu>
+** DONE Bruger sendi TraceTool <2013-10-10 Thu>
 * DONE SSF: Sundhedsafdelingen
 Leder: Rasmus Baagland
-** Hjælpemiddelteam
+** DONE Hjælpemiddelteam
 Enhedsansvarlige: 
 - Karen Falkesgaard
 - Charlotte Lindved
 Intro: Tilstede
-** Bestillersektion
+
+*** DONE Opgaver
+Opgaver er det samme som sidste år.
+
+Tilføjet parameter: Borgerens alder
+
+
+*** DONE TraceTool bruger 
+
+** DONE Bestillersektion
 Enhedsansvarlig:
 - Gitte Troelsen
 Intro: Tilstede
+*** DONE Sendt opfølgning på opgaveliste <2013-10-07 Mon>
+*** DONE Oprettet bruger i TraceTool <2013-10-08 Tue>
 ** 1. kontakt <2013-09-24 Tue>:
 Telefon med Rasmus, som forespurgte informations e-mail
 Jeg har svaret med Informaton e-mail.
@@ -80,9 +116,12 @@ Sendt Informationsmail om tælleugen.
 ** 2. kontakt <2013-09-25 Wed>:
 Telefon med Bjarne Svendsen: Peger på Bendt Skodborg Nielsen som enhedsansvarlig
 
-* TODO TMF: Byg og Plan
+** DONE Sendt opfølgning på opgaveliste <2013-10-07 Mon>
+** DONE Sendt login til TraceTool <2013-10-07 Mon>
+* DONE TMF: Byg og Plan
 Leder: Casper Toftholm
 Enhedsansvarlig: Lone Poulsen
+Enhedsansvarlig2: Axel Pedersen
 ** 1. kontakt <2013-09-25 Wed>:
 Kontaktet sidste års enhedsansvarlig: Thøger B. Beknes (24 55)   
 ** 2. kontakt <2013-09-25 Wed>:
@@ -94,8 +133,10 @@ Sendt mail.
 ** 4. kontakt <2013-09-26 Thu>:
 Modtaget svar fra Thøger Beknes: Enhedsansvarlig Lone Poulsen
 
-** Opfølgning på introduktionsmøde
-* DONE TMF: Veje og Byrum
+** DONE Opfølgning på introduktionsmøde <2013-10-03 Thu>
+** DONE Sendt opfølgning på opgaveliste <2013-10-09 Wed>
+** DONE Sendt bruger til TraceTool <2013-10-10 Thu>
+* TODO TMF: Veje og Byrum
 Leder: Connie Graul (68 27)
 Enhedsansvarlig: Bent Kirkegaard Petersen
 Intro: Tilstede
@@ -104,9 +145,17 @@ Telefonsvarer.
 ** 2. kontakt <2013-09-25 Wed>:
 Telefon med Connie Graul: Enhedsansvarlig: Bent Kirkegaard Petersen
 
-** TODO Ekstra spørgsmål
+** DONE Ekstra spørgsmål
 De har flere henvendelser end dem, der blev optalt sidste år.
 Skal disse tælles med i år?
+
+Opretter en ny bruger, der hedder Byrum
+** DONE Opfølgning på opgaveliste <2013-10-07 Mon>
+** DONE Sendt bruger til veje og trafik
+** DONE Sendt bruger til byrum
+
+** TODO Har de ikke udsendelse eller modtagelse af blanketter?
+TraceTool brugeren for veje og byrum giver ikke mulighed for at vælge blanket.
 * DONE FKF: Økonomisk afdeling
 Leder: Kenneth Nielsen
 Enhedsansvarlig: Henriette Rasmussen
@@ -118,7 +167,27 @@ Telefon med Helle: Kenneth Nielsen ringer tilbage
 Sendt mail.
 ** 3. kontakt <2013-09-26 Thu>:
 Modtaget svar fra Kenneth: Enhedsansvarlig Henriette Rasmussen
-* TODO FKF: It-afdelingen
+
+*** DONE Opgaver
+Ingen ændringer fra sidste år
+*** DONE TraceTool bruger
+
+
+** Opfølgning på intromøde
+Bruger oprettet og kanaler afstemt.
+
+* DONE FKF: Kulturafdelingen
+Enhedsansvarlig: Birgit Madsen
+** DONE 1. kontakt <2013-10-08 Tue>
+Skulle til møde
+
+** DONE 2. kontakt <2013-10-09 Wed>
+Har talt med Birgit
+
+** DONE Opfølgning på introduktionsmøde <2013-10-09 Wed>
+** DONE Opfølgning på opgaver <2013-10-09 Wed>
+** DONE Sendt bruger til TraceTool <2013-10-09 Wed>
+* DONE FKF: It-afdelingen
 Enhedsansvarlig: Bartek Rohard Warszawski
 
 ** 1. kontakt <2013-09-25 Wed>:
@@ -132,8 +201,10 @@ Telefon: Tom fra IT-afdelingen
 Sendt 
 
 
-** Opfølgning på introduktionsmøde
+** DONE Opfølgning på introduktionsmøde <2013-10-03 Thu>
+** DONE Opfølgning på optælling af hjemmeside
 
+** DONE Optælling er på rette spor
 * Kanalstrategi Henrik (68 24)
 ** DONE Email <2013-09-25 Wed>:
 - Borup Bibliotek kan ikke tælles, da de har lukket.
@@ -147,15 +218,12 @@ Modtaget svar
 * Intro til tælleuge
 ** TODO Bartek Rohard - IT
 Sendt mail <2013-10-03 Thu>
+Talt med Bartek
 ** TODO Christian Vidstid - SSF
 Sendt mail <2013-10-03 Thu>
 ** TODO Lone Poulsen - TMF Byg og plan
-
-Skolehenvendelser
-
-
-
 Aftalt samtale <2013-10-03 Thu>
+Talt med Lone
 ** TODO Jes Kristensen - Ungecentret
 Sendt mail <2013-10-03 Thu>
 
@@ -166,3 +234,5 @@ Sendt mail <2013-10-03 Thu>
 Jobcenter
 ** Plejetillæg
 Støttehjælper
+
+* Rapport for data fra tælleugen
