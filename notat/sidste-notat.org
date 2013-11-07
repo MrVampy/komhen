@@ -55,7 +55,7 @@ i kommunen modtager en henvendelse, der bliver varetaget af en anden
 afdeling i kommunen, og stadig er i kommunens regi.
 
 Udbetaling Danmark er en undtagelse, da opgaverne i deres varetægt er overgået
-fra Køge Kommune for nyligt. For afdelinger, der har rådgivningpligt skal disse 
+fra Køge Kommune for nyligt. For afdelinger, der har rådgivningspligt skal disse 
 ikke registreres som fejlhenvendelser, men som råd og vejledning.
 For andre afdelinger, registreres disse som fejlhenvendelser, da Udbetaling DK's opgaver 
 ikke fremgår i jeres TraceTool.

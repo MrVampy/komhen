@@ -9,6 +9,8 @@ Intro: Tilstede
 ** DONE Opfølgning på opgaver <2013-10-10 Thu>
 ** DONE Sendt brugere til TraceTool - Information <2013-10-10 Thu>
 ** DONE Sendt brugere til TraceTool - Borgerservice <2013-10-10 Thu>
+** DONE Tæller <2013-10-21 Mon>
+
 * DONE Jobcenter 
 Leder: Gorm H. Andersen
 Enhedsansvarlig: Helle Guldberg Jensen
@@ -18,6 +20,8 @@ Intro: Tilstede
 Telefon Gorm H. Andersen
 ** 2. kontakt <2013-09-25 Wed>:
 Modtaget svar e-mail fra enhedsansvarlig: Helle Guldberg Jensen
+
+** DONE Tæller <2013-10-21 Mon>
 
 * TODO Ungecenter
 Leder: Flemming Udbjørn
@@ -46,15 +50,16 @@ Leder: Linda
 Enhedsansvarlig: Ikke relevant
 ** 1. kontakt <2013-09-24 Tue>:
 Telefon med Linda: Er lukket uge 43
-* DONE BUF: Skoleafdelingen og Familierådgivningen
+* TODO BUF: Skoleafdelingen og Familierådgivningen
 Leder: Marianne Levin
 Enhedsansvarlig: Janne Kleffel
 Intro: Tilstede
 ** 1. kontakt <2013-09-24 Tue>:
 ** DONE Sendt opfølgning på opgaveliste <2013-10-07 Mon>
-** DONE Oprettet bruger i TraceTool - Familierådgivningen <2013-10-08 Tue>
+** DONE Oprette1t bruger i TraceTool - Familierådgivningen <2013-10-08 Tue>
 ** DONE Oprettet bruger i TraceTool - Skoleafdelingen <2013-10-08 Tue>
 
+** TODO Tæller 
 * DONE BUF: Pladsanvisning
 Leder: Tina Andersen
 Enhedsansvarlig: Tina Andersen
@@ -63,6 +68,7 @@ Intro: Tilstede
 Personlig kontakt med Tina Andersen, som også fungere som enhedsansvarlig
 ** DONE Sendt opfølgning på opgaveliste <2013-10-07 Mon>
 ** DONE Oprettet bruger i TraceTool <2013-10-08 Tue>
+** DONE Tæller <2013-10-21 Mon>
 * DONE SSF: Socialafdelingen
 Leder: Gunvor Abrahamsen
 Enhedsansvarlig: Christian Vidstid
@@ -76,6 +82,8 @@ Telefon med Majbritt: Gunvor ringer tilbage
 ** DONE Opfølgning på intromøde <2013-10-07 Mon>
 ** DONE Opfølgning på opgaver <2013-10-10 Thu>
 ** DONE Bruger sendi TraceTool <2013-10-10 Thu>
+** DONE Tæller <2013-10-21 Mon>
+
 * DONE SSF: Sundhedsafdelingen
 Leder: Rasmus Baagland
 ** DONE Hjælpemiddelteam
@@ -89,15 +97,16 @@ Opgaver er det samme som sidste år.
 
 Tilføjet parameter: Borgerens alder
 
-
 *** DONE TraceTool bruger 
 
+*** DONE Tæller <2013-10-21 Mon>
 ** DONE Bestillersektion
 Enhedsansvarlig:
 - Gitte Troelsen
 Intro: Tilstede
 *** DONE Sendt opfølgning på opgaveliste <2013-10-07 Mon>
 *** DONE Oprettet bruger i TraceTool <2013-10-08 Tue>
+*** DONE Tæller <2013-10-21 Mon>
 ** 1. kontakt <2013-09-24 Tue>:
 Telefon med Rasmus, som forespurgte informations e-mail
 Jeg har svaret med Informaton e-mail.
@@ -118,6 +127,7 @@ Telefon med Bjarne Svendsen: Peger på Bendt Skodborg Nielsen som enhedsansvarli
 
 ** DONE Sendt opfølgning på opgaveliste <2013-10-07 Mon>
 ** DONE Sendt login til TraceTool <2013-10-07 Mon>
+** DONE Tæller <2013-10-21 Mon>
 * DONE TMF: Byg og Plan
 Leder: Casper Toftholm
 Enhedsansvarlig: Lone Poulsen
@@ -136,7 +146,9 @@ Modtaget svar fra Thøger Beknes: Enhedsansvarlig Lone Poulsen
 ** DONE Opfølgning på introduktionsmøde <2013-10-03 Thu>
 ** DONE Sendt opfølgning på opgaveliste <2013-10-09 Wed>
 ** DONE Sendt bruger til TraceTool <2013-10-10 Thu>
-* TODO TMF: Veje og Byrum
+** DONE Tæller <2013-10-21 Mon>
+
+* DONE TMF: Veje og Byrum
 Leder: Connie Graul (68 27)
 Enhedsansvarlig: Bent Kirkegaard Petersen
 Intro: Tilstede
@@ -156,6 +168,7 @@ Opretter en ny bruger, der hedder Byrum
 
 ** TODO Har de ikke udsendelse eller modtagelse af blanketter?
 TraceTool brugeren for veje og byrum giver ikke mulighed for at vælge blanket.
+** DONE Tæller <2013-10-21 Mon>
 * DONE FKF: Økonomisk afdeling
 Leder: Kenneth Nielsen
 Enhedsansvarlig: Henriette Rasmussen
@@ -176,7 +189,8 @@ Ingen ændringer fra sidste år
 ** Opfølgning på intromøde
 Bruger oprettet og kanaler afstemt.
 
-* DONE FKF: Kulturafdelingen
+** DONE Tæller <2013-10-21 Mon>
+* TODO FKF: Kulturafdelingen
 Enhedsansvarlig: Birgit Madsen
 ** DONE 1. kontakt <2013-10-08 Tue>
 Skulle til møde
@@ -187,6 +201,7 @@ Har talt med Birgit
 ** DONE Opfølgning på introduktionsmøde <2013-10-09 Wed>
 ** DONE Opfølgning på opgaver <2013-10-09 Wed>
 ** DONE Sendt bruger til TraceTool <2013-10-09 Wed>
+** TODO Tæller
 * DONE FKF: It-afdelingen
 Enhedsansvarlig: Bartek Rohard Warszawski
 
