@@ -1,0 +1,18 @@
+\documentclass[28pt]{scrartcl}
+\usepackage{graphicx}
+\graphicspath{{figures/}{figures/external/}}
+
+\begin{document}
+
+\section{My first figure}
+
+Se det er en flot figur.
+
+\centering
+\begin{figure}[h]
+\includegraphics{<%=toPDF("MyFigure,yeah,cool", aspectRatio=0.6, {
+curve(dnorm, from=-5, to=+5);
+})%>}
+\end{figure}
+
+\end{document}

@@ -106,7 +106,6 @@ data <- subset(data, !(dato > as.Date("2013-10-29") & enhed == ""))
 ### Convert "" to NULL
 
 data$enhed[data$enhed == ""] <- NA
-data$afdeling[data$afdeling == ""] <- NA
 
 ##### Draw graph of enquiries per department #####
 
@@ -145,19 +144,17 @@ dev.off()
 
 ##### START #####
 
-
 ### Roller
 subfolder = "Roller/"
-departs = as.vector(na.omit(unique(data$enhed)))
-org = as.vector(na.omit(data$enhed))
-
+departs = as.vector(na.omit(unique(data$enhed[data$enhed != ""])))
+org = data$enhed
 
 ### Afdelinger
-# subfolder = "Afdelinger/"
-# departs = as.vector(na.omit(unique(data$afdeling)))
-# org = data$afdeling
+ subfolder = "Afdelinger/"
+ departs = as.vector(na.omit(unique(data$afdeling)))
+ org = data$afdeling
 
-for (str in departs) {
+ for (str in departs) {
 
 ##### Channel graph #####
 
@@ -183,7 +180,7 @@ dotType <- allo_ch(dotType)
 
 ## New dotChar for KanalType
 
-pdf(file=paste("kanal_total/",subfolder,"kanal-",str,".pdf", sep=""),width=6.5,height=4.5)
+pdf(file=paste("ch/",subfolder,"kanal-",str,".pdf", sep=""),width=6.5,height=4.5)
 
 par(mar = c(3,3,0,2), oma = c(1,1,4,1))
 
@@ -197,7 +194,7 @@ dev.off()
 org = org         
 str = str
 
-pdf(file=paste("opgave_total/",subfolder,"assign-",str,".pdf", sep=""),width=6.5,height=4.5)
+pdf(file=paste("as/",subfolder,"assign-",str,".pdf", sep=""),width=6.5,height=4.5)
 
 ## Graph of assignments
 
@@ -220,7 +217,7 @@ dev.off()
 org = org         ### Ændrer denne for at få data på enhedsniveau
 str = str
 
-pdf(file=paste("hentype_total/",subfolder,"hentype-",str,".pdf", sep=""),width=6.5,height=4.5)
+pdf(file=paste("he/",subfolder,"hentype-",str,".pdf", sep=""),width=6.5,height=4.5)
 
 ## Graph of assignments
 
@@ -241,6 +238,7 @@ axis(2,at=x,labels=paste(dfOpgOrdered$hentype, ": ", dfOpgOrdered$antal), las = 
 dev.off()
 
 ##### END #####
+
 }
 
 ####### Department subgraphs #######
@@ -283,10 +281,10 @@ for (str in departs) {
 org = org         ### Ændrer denne for at få data på enhedsniveau
 str = str
   
-max = getMaxChannel(subset(data, org == str))[1]
+max = getMaxChannel(subset(data, org == str))
 tab = table(data$opgavenavn[data$retning == max[1] & data$kanalnavn == max[2] & org == str])
 
-pdf(file=paste("opgave_fordelt_max_kanal/",subfolder,"opgave-max-kanal-",str,".pdf", sep=""),width=6.5,height=4.5)
+pdf(file=paste("asCh/",subfolder,"opgave-max-kanal-",str,".pdf", sep=""),width=6.5,height=4.5)
 
 ## Graph of assignments
 
@@ -312,10 +310,10 @@ dev.off()
 org = org         ### Ændrer denne for at få data på enhedsniveau
 str = str
 
-max = getMaxChannel(subset(data, org == str))[1]
+max = getMaxChannel(subset(data, org == str))
 tab = table(data$hentype[data$retning == max[1] & data$kanalnavn == max[2] & org == str])
 
-pdf(file=paste("hentype_fordelt_max_kanal/",subfolder,"hentype-max-kanal-",str,".pdf", sep=""),width=6.5,height=4.5)
+pdf(file=paste("henCh/",subfolder,"hentype-max-kanal-",str,".pdf", sep=""),width=6.5,height=4.5)
 
 ## Graph of assignments
 
@@ -341,7 +339,7 @@ dev.off()
 org = org         ### Ændrer denne for at få data på enhedsniveau
 str = str
 
-max <- getMaxAssignment(subset(data, org == str))[1]
+max <- getMaxAssignment(subset(data, org == str))
 tab = table(data$kanal[data$opgavenavn == max & org == str]) 
 
 ### Add KanalType for indgående og udgående
@@ -361,7 +359,7 @@ dotType <- allo_ch(dotType)
 
 ## New dotChar for KanalType
 
-pdf(file=paste("kanal_fordelt_max_opgave/",subfolder,"kanal-max-opgave-",str,".pdf", sep=""),width=6.5,height=4.5)
+pdf(file=paste("chAs/",subfolder,"kanal-max-opgave-",str,".pdf", sep=""),width=6.5,height=4.5)
 
 par(mar = c(3,3,1,2), oma = c(1,1,4,1))
 
@@ -378,10 +376,10 @@ dev.off()
 org = org         ### Ændrer denne for at få data på enhedsniveau
 str = str
 
-max = getMaxAssignment(subset(data, org == str))[1]
+max = getMaxAssignment(subset(data, org == str))
 tab = table(data$hentype[data$opgavenavn == max & org == str])
 
-pdf(file=paste("hentype_fordelt_max_ogpave/",subfolder,"hentype-max-opgave-",str,".pdf", sep=""),width=6.5,height=4.5)
+pdf(file=paste("henAs/",subfolder,"hentype-max-opgave-",str,".pdf", sep=""),width=6.5,height=4.5)
 
 ## Graph of assignments
 
@@ -407,10 +405,10 @@ dev.off()
 org = org         ### Ændrer denne for at få data på enhedsniveau
 str = str
 
-max = getMaxEnquiry(subset(data, org == str))[1]
+max = getMaxEnquiry(subset(data, org == str))
 tab = table(data$opgavenavn[data$hentype == max & org == str])
 
-pdf(file=paste("opgave_fordelt_max_hentype/",subfolder,"opgave-max-hentype-",str,".pdf", sep=""),width=6.5,height=4.5)
+pdf(file=paste("asHen/",subfolder,"opgave-max-hentype-",str,".pdf", sep=""),width=6.5,height=4.5)
 
 ## Graph of assignments
 
@@ -434,9 +432,9 @@ axis(2,at=x,labels=paste(dfOpgOrdered$opgave, ": ", dfOpgOrdered$antal), las = 2
 dev.off()
 ##### By Enquirytype: Channel Graph #####
 org = org         ### Ændrer denne for at få data på enhedsniveau
-str = "259økonomi"
+str = str
 
-max <- getMaxEnquiry(subset(data, org == str))[1]
+max <- getMaxEnquiry(subset(data, org == str))
 tab = table(data$kanal[data$hentype == max & org == str]) 
 
 ### Add KanalType for indgående og udgående
@@ -456,7 +454,7 @@ dotType <- allo_ch(dotType)
 
 ## New dotChar for KanalType
 
-pdf(file=paste("kanal_fordelt_max_hentype/",subfolder,"kanal-max-hentype-",str,".pdf", sep=""),width=6.5,height=4.5)
+pdf(file=paste("chHen/",subfolder,"kanal-max-hentype-",str,".pdf", sep=""),width=6.5,height=4.5)
 
 par(mar = c(3,3,1,2), oma = c(1,1,4,1))
 
@@ -470,34 +468,29 @@ mtext(paste("Henvendelsestype:",max, sep=" "), outer=T)
 dev.off()
 
 }
-
-
 ##### Tidsstatistik #####
 
 timeData = subset(data, enhed %in% c("259skranke","259telefon"), 
                   select = c(enhed,afdeling,opgavenavn,kanal,hentype,starttidspunkt,sluttidspunkt))
 
 timeData$diff = as.vector(difftime(timeData$sluttidspunkt, timeData$starttidspunkt, 
-                          units="mins"))
+                          units="mins")
 
 
 ### Summaries
 
 pdf("tid.pdf")
 
-                          
 for (ch in c("Alle", "Skranke", "Telefon")) {
-
 
 gruppeStr = ch
 
 timeData = subset(data, enhed %in% c("259skranke","259telefon"), 
                   select = c(enhed,afdeling,opgavenavn,kanal,hentype,starttidspunkt,sluttidspunkt))
 
-timeData$diff = as.vector(difftime(timeData$sluttidspunkt, timeData$starttidspunkt, 
+timeData$diff = as.vector(difftime(as.POSIXlt(timeData$sluttidspunkt, format="%d-%m-%Y %H:%M:%S"), 
+                                   as.POSIXlt(timeData$starttidspunkt, format="%d-%m-%Y %H:%M:%S"), 
                                    units="mins"))
-
-
 
 if (gruppeStr == "Skranke") {
   timeData = timeData[timeData$enhed == "259skranke",]
@@ -505,7 +498,6 @@ if (gruppeStr == "Skranke") {
 if (gruppeStr == "Telefon") {
   timeData = timeData[timeData$enhed == "259telefon",]
 }
-
 
 ## Barplot: Mean time per enquirytype
 gnsHen <- aggregate(list(gns=timeData$diff), list(hentype=timeData$hentype), mean)
